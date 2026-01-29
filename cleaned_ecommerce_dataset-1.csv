@@ -1,0 +1,1001 @@
+Transaction_ID,Customer_ID,Customer_Age,Gender,Country,Product_Category,Product_Price($),Quantity_Purchased,Total_Sale_Amount($),Discount_Applied(%),Final_Sale_Amount($),Payment_Method,Order_Placed_Date,Shipping_Duration(Days),Delivery_Status,Customer_Rating(Out_of_5),Refund_Requested,Loyalty_Member,Profit_Margin(%),Customer_Segment
+T10000,C5000,56,Male,Australia,Electronics,222.83,2,445.66,15,378.81,Bank Transfer,2024-10-29,10,Delivered,4,Yes,No,15.8,Regular
+T10001,C5001,46,Female,India,Home & Kitchen,366.21,7,2563.47,20,2050.78,Debit Card,2024-12-01,6,Returned,4,Yes,Yes,6.3,Premium
+T10002,C5002,32,Male,Germany,Clothing,470.41,6,2822.46,0,2822.46,PayPal,2023-10-15,10,Cancelled,5,Yes,No,7.4,Regular
+T10003,C5003,60,Non-Binary,Australia,Clothing,303.88,3,911.64,0,911.64,PayPal,2023-04-20,13,In Transit,2,Yes,No,21.5,Occasional
+T10004,C5004,25,Male,UK,Home & Kitchen,432.25,2,864.5,0,864.5,Debit Card,2024-06-09,7,Returned,3,Yes,Yes,21.2,Regular
+T10005,C5005,38,Male,Australia,Clothing,412.13,4,1648.52,0,1648.52,Bank Transfer,2023-06-10,12,In Transit,2,No,No,5.8,Occasional
+T10006,C5006,56,Male,USA,Electronics,90.8,3,272.4,10,245.16,Credit Card,2023-05-10,10,Delivered,1,Yes,Yes,5.0,Regular
+T10007,C5007,36,Male,Germany,Electronics,245.48,7,1718.36,20,1374.69,Bank Transfer,2023-03-12,3,Delivered,4,Yes,No,7.0,Regular
+T10008,C5008,40,Non-Binary,UK,Home & Kitchen,62.88,8,503.04,5,477.89,Credit Card,2023-09-11,8,Returned,1,No,No,24.1,Occasional
+T10009,C5009,28,Non-Binary,India,Clothing,342.67,2,685.34,20,548.27,Bank Transfer,2023-10-26,3,Returned,5,Yes,No,19.6,Regular
+T10010,C5010,28,Female,UK,Electronics,475.2,7,3326.4,10,2993.76,Debit Card,2023-01-03,1,Returned,4,Yes,No,6.0,Regular
+T10011,C5011,41,Non-Binary,India,Electronics,72.86,8,582.88,0,582.88,PayPal,2024-11-20,13,Delivered,3,Yes,No,17.2,Regular
+T10012,C5012,53,Non-Binary,UK,Books,368.27,6,2209.62,10,1988.66,Bank Transfer,2023-09-25,13,Delivered,4,Yes,Yes,22.8,Premium
+T10013,C5013,57,Female,Australia,Books,317.96,6,1907.76,15,1621.6,Credit Card,2023-02-27,10,Cancelled,2,No,No,26.7,Occasional
+T10014,C5014,41,Non-Binary,Australia,Electronics,293.88,1,293.88,15,249.8,PayPal,2024-04-15,12,Returned,2,No,No,28.4,Occasional
+T10015,C5015,20,Male,Australia,Home & Kitchen,198.11,4,792.44,20,633.95,Credit Card,2024-02-16,5,Cancelled,4,Yes,Yes,13.2,Premium
+T10016,C5016,39,Male,USA,Sports,180.79,1,180.79,20,144.63,Debit Card,2023-06-16,2,In Transit,5,No,Yes,8.4,Premium
+T10017,C5017,19,Female,India,Sports,27.4,4,109.6,5,104.12,PayPal,2024-09-09,10,Cancelled,2,Yes,No,10.9,Occasional
+T10018,C5018,41,Female,Australia,Electronics,112.86,2,225.72,5,214.43,Credit Card,2024-10-08,14,In Transit,2,No,Yes,24.4,Regular
+T10019,C5019,61,Female,USA,Electronics,12.51,5,62.55,15,53.17,Bank Transfer,2024-09-26,6,In Transit,3,No,No,29.3,Regular
+T10020,C5020,47,Male,India,Electronics,292.8,9,2635.2,0,2635.2,Debit Card,2023-09-19,13,Cancelled,4,No,Yes,16.7,Premium
+T10021,C5021,55,Non-Binary,UK,Home & Kitchen,57.4,3,172.2,10,154.98,Debit Card,2024-02-02,10,Returned,2,No,Yes,12.6,Regular
+T10022,C5022,19,Male,USA,Books,437.14,8,3497.12,5,3322.26,Debit Card,2024-11-20,9,In Transit,5,No,No,15.7,Regular
+T10023,C5023,38,Female,Germany,Electronics,263.96,3,791.88,5,752.29,Bank Transfer,2023-07-26,1,Returned,1,No,Yes,12.6,Regular
+T10024,C5024,50,Non-Binary,USA,Electronics,351.35,6,2108.1,0,2108.1,Bank Transfer,2023-12-26,14,Delivered,4,No,No,11.4,Regular
+T10025,C5025,29,Non-Binary,USA,Clothing,208.37,4,833.48,0,833.48,PayPal,2024-06-19,13,In Transit,3,No,Yes,19.8,Regular
+T10026,C5026,39,Male,India,Home & Kitchen,282.49,8,2259.92,20,1807.94,Bank Transfer,2024-12-04,4,Delivered,2,No,Yes,5.4,Regular
+T10027,C5027,61,Female,UK,Electronics,471.62,6,2829.72,10,2546.75,PayPal,2023-11-04,1,Cancelled,5,No,Yes,11.5,Premium
+T10028,C5028,42,Male,Germany,Clothing,45.95,8,367.6,0,367.6,Debit Card,2024-01-17,1,Returned,4,No,No,21.5,Regular
+T10029,C5029,44,Non-Binary,Australia,Sports,130.7,1,130.7,5,124.16,PayPal,2024-03-06,8,Cancelled,5,Yes,No,5.8,Regular
+T10030,C5030,59,Male,Australia,Electronics,391.09,6,2346.54,5,2229.21,Credit Card,2023-05-28,14,In Transit,5,No,Yes,7.1,Premium
+T10031,C5031,45,Male,USA,Electronics,53.87,1,53.87,15,45.79,Debit Card,2024-07-21,14,Delivered,3,Yes,No,12.3,Regular
+T10032,C5032,33,Female,India,Clothing,42.45,1,42.45,0,42.45,Debit Card,2023-02-09,13,In Transit,4,No,No,26.9,Regular
+T10033,C5033,32,Female,India,Home & Kitchen,183.96,8,1471.68,20,1177.34,PayPal,2023-10-03,14,Cancelled,2,Yes,No,24.1,Occasional
+T10034,C5034,64,Non-Binary,Australia,Electronics,50.62,7,354.34,10,318.91,Debit Card,2023-05-20,11,Returned,3,Yes,Yes,5.6,Regular
+T10035,C5035,61,Male,Germany,Sports,294.61,3,883.83,20,707.06,Bank Transfer,2024-09-05,2,Returned,2,Yes,No,17.5,Occasional
+T10036,C5036,20,Male,UK,Electronics,117.01,6,702.06,5,666.96,Credit Card,2023-04-30,1,In Transit,1,No,Yes,11.9,Regular
+T10037,C5037,54,Male,Germany,Sports,448.37,9,4035.33,20,3228.26,PayPal,2023-06-01,11,In Transit,5,No,Yes,21.2,Premium
+T10038,C5038,24,Non-Binary,UK,Books,392.83,7,2749.81,5,2612.32,PayPal,2023-11-17,8,Delivered,1,No,Yes,23.0,Regular
+T10039,C5039,38,Non-Binary,Australia,Books,351.35,3,1054.05,5,1001.35,Debit Card,2024-09-06,4,Cancelled,5,No,Yes,26.6,Premium
+T10040,C5040,26,Female,UK,Sports,310.39,6,1862.34,5,1769.22,Bank Transfer,2023-09-09,3,In Transit,3,Yes,Yes,16.9,Regular
+T10041,C5041,56,Female,India,Home & Kitchen,432.42,4,1729.68,5,1643.2,Debit Card,2024-07-20,13,Delivered,2,No,No,29.9,Occasional
+T10042,C5042,35,Female,USA,Electronics,115.42,3,346.26,5,328.95,Debit Card,2023-07-25,12,In Transit,2,No,No,29.5,Occasional
+T10043,C5043,21,Male,USA,Electronics,437.19,9,3934.71,15,3344.5,PayPal,2023-10-26,4,Returned,3,No,Yes,27.1,Regular
+T10044,C5044,42,Male,Australia,Books,395.8,2,791.6,20,633.28,Debit Card,2024-03-15,14,Delivered,4,No,No,19.4,Regular
+T10045,C5045,31,Female,India,Sports,375.34,1,375.34,15,319.04,Credit Card,2024-04-29,11,Delivered,1,No,No,15.0,Occasional
+T10046,C5046,26,Male,Germany,Electronics,282.82,2,565.64,15,480.79,Debit Card,2024-01-19,5,In Transit,1,No,No,14.1,Occasional
+T10047,C5047,43,Female,India,Electronics,126.89,7,888.23,0,888.23,Debit Card,2023-12-06,1,Cancelled,2,No,No,5.3,Occasional
+T10048,C5048,19,Non-Binary,USA,Home & Kitchen,214.66,1,214.66,0,214.66,PayPal,2024-02-09,14,Returned,2,No,No,11.2,Occasional
+T10049,C5049,37,Female,USA,Clothing,397.82,6,2386.92,0,2386.92,Debit Card,2024-07-18,11,Cancelled,2,Yes,No,23.0,Occasional
+T10050,C5050,45,Non-Binary,India,Books,20.73,7,145.11,10,130.6,Bank Transfer,2023-08-12,1,Delivered,3,Yes,No,20.1,Regular
+T10051,C5051,64,Male,India,Books,392.12,9,3529.08,0,3529.08,PayPal,2023-07-26,3,Cancelled,4,No,Yes,27.9,Premium
+T10052,C5052,24,Female,USA,Clothing,123.84,8,990.72,20,792.58,Debit Card,2023-04-24,6,Delivered,1,No,Yes,6.3,Regular
+T10053,C5053,61,Male,Germany,Electronics,76.43,6,458.58,15,389.79,Credit Card,2023-09-24,1,Cancelled,5,No,Yes,8.9,Premium
+T10054,C5054,25,Non-Binary,Australia,Home & Kitchen,62.27,3,186.81,20,149.45,Credit Card,2024-12-25,14,In Transit,3,No,No,24.7,Regular
+T10055,C5055,64,Non-Binary,Australia,Home & Kitchen,18.49,8,147.92,0,147.92,PayPal,2023-03-21,11,Cancelled,1,Yes,No,14.0,Occasional
+T10056,C5056,52,Non-Binary,India,Books,264.18,7,1849.26,10,1664.33,PayPal,2023-02-07,12,Delivered,4,Yes,Yes,8.0,Premium
+T10057,C5057,31,Male,Australia,Home & Kitchen,113.04,3,339.12,10,305.21,Debit Card,2024-09-13,2,Returned,3,No,No,29.9,Regular
+T10058,C5058,34,Male,USA,Clothing,494.77,9,4452.93,15,3784.99,Bank Transfer,2023-01-26,12,Returned,1,Yes,No,24.7,Occasional
+T10059,C5059,53,Male,USA,Electronics,289.35,2,578.7,20,462.96,Debit Card,2024-05-02,14,Returned,3,Yes,Yes,15.2,Regular
+T10060,C5060,57,Male,India,Clothing,73.25,3,219.75,5,208.76,Credit Card,2024-12-02,7,Delivered,1,No,Yes,25.6,Regular
+T10061,C5061,21,Non-Binary,India,Sports,345.94,2,691.88,20,553.5,Bank Transfer,2023-03-09,14,Cancelled,1,No,Yes,22.0,Regular
+T10062,C5062,19,Non-Binary,India,Books,449.38,1,449.38,0,449.38,Bank Transfer,2023-07-09,14,Returned,4,No,No,24.7,Regular
+T10063,C5063,23,Female,Germany,Home & Kitchen,373.86,4,1495.44,5,1420.67,Bank Transfer,2023-08-08,1,Returned,5,Yes,No,25.4,Regular
+T10064,C5064,59,Female,Australia,Sports,42.84,5,214.2,10,192.78,Debit Card,2023-11-19,13,Returned,4,Yes,No,7.1,Regular
+T10065,C5065,21,Male,India,Home & Kitchen,448.46,6,2690.76,15,2287.15,Credit Card,2024-01-03,14,In Transit,1,No,Yes,20.6,Regular
+T10066,C5066,46,Non-Binary,UK,Electronics,398.0,5,1990.0,15,1691.5,PayPal,2024-07-21,7,Delivered,3,No,Yes,5.2,Regular
+T10067,C5067,35,Non-Binary,UK,Electronics,83.36,1,83.36,10,75.02,Debit Card,2023-12-28,4,Delivered,4,Yes,No,6.1,Regular
+T10068,C5068,43,Non-Binary,USA,Electronics,30.63,3,91.89,0,91.89,PayPal,2024-05-05,10,Delivered,5,Yes,Yes,27.6,Premium
+T10069,C5069,61,Female,Australia,Home & Kitchen,280.87,1,280.87,10,252.78,Bank Transfer,2024-03-08,14,Delivered,1,No,Yes,18.2,Regular
+T10070,C5070,51,Female,India,Sports,82.24,5,411.2,0,411.2,Bank Transfer,2023-05-18,6,Delivered,4,Yes,No,23.4,Regular
+T10071,C5071,27,Non-Binary,UK,Electronics,418.12,5,2090.6,5,1986.07,Debit Card,2024-12-17,14,In Transit,4,No,Yes,26.0,Premium
+T10072,C5072,53,Non-Binary,Australia,Sports,182.38,6,1094.28,10,984.85,Credit Card,2023-03-24,8,Cancelled,4,No,Yes,28.7,Premium
+T10073,C5073,31,Non-Binary,USA,Home & Kitchen,456.88,8,3655.04,0,3655.04,Bank Transfer,2024-05-26,9,In Transit,4,Yes,Yes,26.7,Premium
+T10074,C5074,48,Female,Germany,Sports,285.02,1,285.02,5,270.77,PayPal,2023-10-06,6,Returned,3,Yes,No,17.1,Regular
+T10075,C5075,32,Non-Binary,Australia,Home & Kitchen,95.42,4,381.68,10,343.51,PayPal,2023-03-13,12,In Transit,5,Yes,No,13.4,Regular
+T10076,C5076,25,Non-Binary,Australia,Home & Kitchen,74.1,1,74.1,15,62.98,Debit Card,2024-07-06,11,Delivered,5,No,Yes,8.9,Premium
+T10077,C5077,31,Male,Germany,Books,290.35,9,2613.15,10,2351.84,PayPal,2023-06-23,13,In Transit,1,No,No,15.0,Occasional
+T10078,C5078,40,Male,Australia,Home & Kitchen,382.13,7,2674.91,20,2139.93,Credit Card,2024-05-24,14,Delivered,2,No,No,14.2,Occasional
+T10079,C5079,57,Female,USA,Home & Kitchen,391.85,7,2742.95,10,2468.66,Bank Transfer,2023-06-14,9,In Transit,3,No,No,19.0,Regular
+T10080,C5080,38,Non-Binary,USA,Clothing,141.5,5,707.5,20,566.0,PayPal,2024-12-25,4,Delivered,1,No,Yes,21.6,Regular
+T10081,C5081,33,Non-Binary,Germany,Electronics,106.1,7,742.7,5,705.56,PayPal,2023-09-17,6,Returned,1,No,No,29.5,Occasional
+T10082,C5082,62,Male,India,Books,13.29,2,26.58,10,23.92,Bank Transfer,2023-08-22,8,Delivered,4,Yes,Yes,23.2,Premium
+T10083,C5083,35,Female,UK,Books,341.2,4,1364.8,5,1296.56,Debit Card,2024-08-28,9,In Transit,2,No,Yes,21.1,Regular
+T10084,C5084,64,Male,India,Books,42.9,7,300.3,5,285.29,PayPal,2023-09-30,3,Returned,2,No,No,13.4,Occasional
+T10085,C5085,41,Male,Australia,Clothing,213.28,3,639.84,0,639.84,Debit Card,2023-10-14,2,In Transit,3,No,Yes,5.9,Regular
+T10086,C5086,43,Male,UK,Home & Kitchen,302.83,2,605.66,5,575.38,Debit Card,2024-04-13,6,Returned,2,No,No,12.2,Occasional
+T10087,C5087,42,Male,Germany,Electronics,468.87,2,937.74,5,890.85,PayPal,2023-06-23,4,Cancelled,1,Yes,No,24.2,Occasional
+T10088,C5088,62,Non-Binary,Germany,Sports,159.34,1,159.34,10,143.41,Credit Card,2023-03-28,1,Cancelled,2,No,Yes,10.1,Regular
+T10089,C5089,58,Non-Binary,UK,Home & Kitchen,128.64,5,643.2,10,578.88,Debit Card,2024-03-21,8,Cancelled,2,Yes,Yes,22.8,Regular
+T10090,C5090,46,Male,USA,Clothing,328.81,6,1972.86,15,1676.93,PayPal,2023-05-02,9,In Transit,5,Yes,No,19.5,Regular
+T10091,C5091,32,Female,UK,Home & Kitchen,311.52,6,1869.12,0,1869.12,Debit Card,2024-07-09,14,In Transit,1,No,No,9.3,Occasional
+T10092,C5092,62,Female,Australia,Home & Kitchen,169.39,9,1524.51,5,1448.28,Bank Transfer,2024-03-08,9,Returned,2,No,No,11.5,Occasional
+T10093,C5093,18,Female,USA,Clothing,464.41,4,1857.64,0,1857.64,Credit Card,2024-04-15,2,Returned,2,Yes,No,17.4,Occasional
+T10094,C5094,42,Female,Germany,Books,423.21,1,423.21,20,338.57,Credit Card,2023-05-08,9,Returned,4,Yes,Yes,15.5,Premium
+T10095,C5095,24,Male,UK,Books,115.87,6,695.22,5,660.46,Bank Transfer,2023-11-08,7,Returned,2,No,Yes,24.5,Regular
+T10096,C5096,26,Non-Binary,India,Electronics,123.38,5,616.9,0,616.9,Bank Transfer,2023-01-14,5,Delivered,2,Yes,Yes,23.4,Regular
+T10097,C5097,41,Female,India,Electronics,258.59,6,1551.54,15,1318.81,Debit Card,2024-02-10,7,Cancelled,5,No,No,19.4,Regular
+T10098,C5098,18,Male,Australia,Books,387.92,3,1163.76,15,989.2,Bank Transfer,2023-04-13,13,Delivered,1,No,Yes,25.6,Regular
+T10099,C5099,61,Female,India,Sports,26.8,2,53.6,5,50.92,Credit Card,2023-03-11,9,Delivered,3,Yes,Yes,19.1,Regular
+T10100,C5100,25,Female,UK,Home & Kitchen,348.2,6,2089.2,20,1671.36,Bank Transfer,2023-08-23,8,Delivered,1,No,Yes,29.1,Regular
+T10101,C5101,41,Male,UK,Sports,325.88,1,325.88,15,277.0,PayPal,2023-03-17,6,Delivered,4,No,Yes,10.4,Premium
+T10102,C5102,28,Non-Binary,India,Home & Kitchen,119.58,7,837.06,15,711.5,PayPal,2024-11-20,13,Cancelled,1,No,No,22.9,Occasional
+T10103,C5103,34,Non-Binary,UK,Books,342.27,7,2395.89,20,1916.71,Debit Card,2023-03-29,4,Delivered,2,Yes,Yes,14.2,Regular
+T10104,C5104,25,Male,Australia,Electronics,470.39,7,3292.73,0,3292.73,Credit Card,2023-04-09,13,Returned,4,Yes,Yes,12.0,Premium
+T10105,C5105,52,Non-Binary,USA,Electronics,28.16,1,28.16,15,23.94,PayPal,2023-12-10,1,In Transit,1,Yes,Yes,9.5,Regular
+T10106,C5106,52,Male,Australia,Sports,163.23,4,652.92,10,587.63,Bank Transfer,2024-06-15,6,Returned,4,No,Yes,18.8,Premium
+T10107,C5107,50,Male,Australia,Electronics,221.9,7,1553.3,15,1320.3,PayPal,2024-05-18,3,In Transit,3,Yes,No,10.4,Regular
+T10108,C5108,22,Male,UK,Books,450.13,9,4051.17,0,4051.17,PayPal,2024-11-13,6,Returned,1,Yes,No,10.0,Occasional
+T10109,C5109,59,Non-Binary,USA,Sports,481.32,5,2406.6,0,2406.6,Debit Card,2023-01-12,6,Returned,2,Yes,Yes,29.8,Regular
+T10110,C5110,56,Male,UK,Home & Kitchen,224.84,2,449.68,5,427.2,Bank Transfer,2023-08-20,14,In Transit,4,No,No,25.0,Regular
+T10111,C5111,58,Female,Germany,Electronics,376.26,7,2633.82,10,2370.44,Bank Transfer,2024-12-29,4,Cancelled,5,No,No,23.7,Regular
+T10112,C5112,45,Non-Binary,UK,Clothing,268.17,1,268.17,0,268.17,Bank Transfer,2023-04-10,2,Delivered,4,Yes,No,24.9,Regular
+T10113,C5113,24,Non-Binary,UK,Electronics,271.2,7,1898.4,20,1518.72,Debit Card,2024-06-19,9,Returned,5,Yes,No,29.2,Regular
+T10114,C5114,26,Non-Binary,UK,Home & Kitchen,142.66,6,855.96,10,770.36,Bank Transfer,2023-01-14,2,Cancelled,2,Yes,Yes,19.3,Regular
+T10115,C5115,25,Non-Binary,USA,Sports,112.39,7,786.73,10,708.06,Bank Transfer,2024-03-03,3,Delivered,3,No,No,10.5,Regular
+T10116,C5116,29,Female,UK,Home & Kitchen,147.56,3,442.68,20,354.14,PayPal,2023-09-05,10,Cancelled,5,Yes,No,26.6,Regular
+T10117,C5117,51,Non-Binary,USA,Clothing,280.38,3,841.14,15,714.97,PayPal,2024-12-05,1,Cancelled,3,No,Yes,23.6,Regular
+T10118,C5118,50,Non-Binary,India,Books,19.43,7,136.01,20,108.81,Bank Transfer,2023-11-06,7,Delivered,4,No,Yes,15.4,Premium
+T10119,C5119,40,Male,Germany,Electronics,454.09,2,908.18,20,726.54,Credit Card,2024-12-01,1,Returned,2,No,Yes,16.8,Regular
+T10120,C5120,41,Non-Binary,USA,Sports,82.36,1,82.36,15,70.01,Credit Card,2023-09-07,11,Cancelled,5,Yes,Yes,15.3,Premium
+T10121,C5121,54,Female,India,Books,113.94,9,1025.46,15,871.64,Bank Transfer,2023-12-02,9,Returned,4,Yes,No,28.2,Regular
+T10122,C5122,52,Female,USA,Home & Kitchen,261.55,9,2353.95,15,2000.86,Credit Card,2024-03-27,11,Returned,1,No,Yes,13.6,Regular
+T10123,C5123,61,Female,USA,Sports,356.51,7,2495.57,15,2121.23,Debit Card,2023-04-03,11,Returned,4,No,No,29.1,Regular
+T10124,C5124,57,Female,Germany,Books,52.39,7,366.73,15,311.72,PayPal,2024-11-16,1,Delivered,3,No,No,27.8,Regular
+T10125,C5125,39,Non-Binary,Australia,Sports,162.26,3,486.78,20,389.42,Debit Card,2023-02-15,5,In Transit,2,No,Yes,20.8,Regular
+T10126,C5126,44,Non-Binary,Australia,Clothing,484.49,2,968.98,5,920.53,PayPal,2024-01-24,7,Returned,2,Yes,Yes,19.5,Regular
+T10127,C5127,52,Female,USA,Clothing,134.86,7,944.02,5,896.82,Credit Card,2023-04-06,3,In Transit,4,Yes,No,14.3,Regular
+T10128,C5128,18,Female,UK,Electronics,159.96,9,1439.64,0,1439.64,Credit Card,2024-12-01,9,In Transit,1,No,No,5.5,Occasional
+T10129,C5129,52,Non-Binary,India,Electronics,419.07,1,419.07,5,398.12,Bank Transfer,2024-04-14,8,Cancelled,3,No,Yes,8.2,Regular
+T10130,C5130,54,Female,UK,Clothing,29.86,4,119.44,5,113.47,Credit Card,2023-02-09,13,Returned,4,No,Yes,23.9,Premium
+T10131,C5131,64,Male,UK,Sports,234.98,6,1409.88,20,1127.9,Credit Card,2024-11-02,3,Returned,4,Yes,Yes,16.8,Premium
+T10132,C5132,31,Female,USA,Clothing,192.91,7,1350.37,15,1147.81,Bank Transfer,2023-03-03,5,Returned,2,No,No,8.7,Occasional
+T10133,C5133,20,Female,USA,Electronics,161.71,7,1131.97,15,962.17,Bank Transfer,2023-05-16,7,In Transit,3,Yes,No,11.6,Regular
+T10134,C5134,18,Male,USA,Clothing,146.42,2,292.84,20,234.27,PayPal,2024-07-17,12,Delivered,1,No,Yes,28.7,Regular
+T10135,C5135,22,Male,USA,Clothing,50.23,4,200.92,5,190.87,Credit Card,2024-06-22,14,In Transit,2,Yes,No,14.2,Occasional
+T10136,C5136,43,Non-Binary,Australia,Sports,160.84,5,804.2,20,643.36,PayPal,2024-08-31,4,Returned,4,Yes,Yes,27.7,Premium
+T10137,C5137,31,Non-Binary,USA,Books,26.31,1,26.31,0,26.31,PayPal,2024-11-16,5,Returned,2,No,No,12.6,Occasional
+T10138,C5138,56,Male,Australia,Electronics,391.58,1,391.58,15,332.84,Debit Card,2024-07-11,3,Returned,2,Yes,No,18.6,Occasional
+T10139,C5139,44,Male,Australia,Sports,202.12,3,606.36,10,545.72,Credit Card,2023-08-23,9,In Transit,5,Yes,Yes,5.5,Premium
+T10140,C5140,26,Non-Binary,USA,Clothing,224.73,3,674.19,0,674.19,Credit Card,2024-01-23,10,Returned,2,Yes,Yes,18.0,Regular
+T10141,C5141,32,Female,Germany,Clothing,447.33,8,3578.64,0,3578.64,Debit Card,2024-07-13,9,Cancelled,2,Yes,Yes,20.9,Regular
+T10142,C5142,32,Male,India,Books,330.74,9,2976.66,20,2381.33,PayPal,2023-07-24,7,Returned,3,No,No,10.9,Regular
+T10143,C5143,43,Non-Binary,UK,Electronics,8.99,1,8.99,5,8.54,Credit Card,2024-10-17,10,Delivered,2,No,No,19.5,Occasional
+T10144,C5144,59,Female,Australia,Electronics,471.87,2,943.74,15,802.18,PayPal,2023-03-25,2,Cancelled,1,No,Yes,21.2,Regular
+T10145,C5145,30,Male,India,Home & Kitchen,122.39,2,244.78,10,220.3,Debit Card,2023-08-08,7,Returned,4,No,No,22.2,Regular
+T10146,C5146,49,Female,Germany,Electronics,58.27,4,233.08,0,233.08,Bank Transfer,2024-11-06,7,Cancelled,3,No,Yes,24.4,Regular
+T10147,C5147,56,Non-Binary,UK,Books,385.22,2,770.44,10,693.4,PayPal,2024-04-25,11,Returned,2,Yes,No,12.8,Occasional
+T10148,C5148,49,Male,UK,Home & Kitchen,252.74,7,1769.18,5,1680.72,Credit Card,2024-02-19,5,Delivered,1,Yes,Yes,19.2,Regular
+T10149,C5149,21,Female,Australia,Home & Kitchen,219.72,9,1977.48,5,1878.61,Bank Transfer,2023-01-28,9,Returned,4,Yes,No,29.5,Regular
+T10150,C5150,47,Male,USA,Clothing,128.5,7,899.5,10,809.55,PayPal,2024-07-24,13,Cancelled,3,Yes,No,27.5,Regular
+T10151,C5151,54,Female,Germany,Clothing,276.0,6,1656.0,15,1407.6,PayPal,2024-12-05,12,Delivered,1,No,No,28.8,Occasional
+T10152,C5152,40,Non-Binary,Australia,Electronics,140.82,1,140.82,5,133.78,Bank Transfer,2023-06-30,11,In Transit,2,No,No,14.7,Occasional
+T10153,C5153,56,Non-Binary,Germany,Home & Kitchen,451.28,9,4061.52,10,3655.37,Bank Transfer,2024-10-17,3,Delivered,5,Yes,Yes,24.7,Premium
+T10154,C5154,62,Male,USA,Clothing,111.53,5,557.65,0,557.65,Bank Transfer,2023-10-28,4,Delivered,5,No,No,20.5,Regular
+T10155,C5155,32,Female,USA,Books,442.76,5,2213.8,10,1992.42,Credit Card,2024-07-19,1,Delivered,3,Yes,Yes,7.1,Regular
+T10156,C5156,60,Male,Australia,Clothing,281.91,6,1691.46,10,1522.31,Credit Card,2023-01-04,6,Cancelled,1,Yes,Yes,25.6,Regular
+T10157,C5157,46,Male,USA,Clothing,415.1,9,3735.9,20,2988.72,PayPal,2023-07-12,4,Delivered,4,No,Yes,21.9,Premium
+T10158,C5158,53,Female,India,Home & Kitchen,357.86,8,2862.88,5,2719.74,PayPal,2023-05-29,1,Returned,1,No,Yes,10.0,Regular
+T10159,C5159,30,Female,UK,Home & Kitchen,349.86,8,2798.88,15,2379.05,Debit Card,2024-09-22,2,Delivered,5,No,No,7.0,Regular
+T10160,C5160,49,Female,Australia,Sports,165.55,8,1324.4,15,1125.74,Credit Card,2023-11-02,3,Delivered,3,No,Yes,25.9,Regular
+T10161,C5161,24,Non-Binary,Germany,Books,120.78,1,120.78,20,96.62,PayPal,2023-01-19,9,Returned,2,No,No,7.0,Occasional
+T10162,C5162,39,Male,India,Home & Kitchen,109.39,1,109.39,15,92.98,Bank Transfer,2023-05-12,13,Returned,1,No,No,7.3,Occasional
+T10163,C5163,45,Male,Australia,Electronics,429.31,8,3434.48,10,3091.03,Bank Transfer,2023-04-12,8,In Transit,5,No,No,15.7,Regular
+T10164,C5164,19,Non-Binary,USA,Books,411.11,5,2055.55,20,1644.44,Credit Card,2023-09-18,7,Delivered,4,Yes,No,8.4,Regular
+T10165,C5165,59,Female,USA,Books,223.08,9,2007.72,0,2007.72,Bank Transfer,2023-06-27,13,Cancelled,3,No,Yes,27.8,Regular
+T10166,C5166,62,Non-Binary,USA,Home & Kitchen,70.54,2,141.08,5,134.03,Debit Card,2023-04-05,11,Delivered,2,Yes,No,16.8,Occasional
+T10167,C5167,23,Non-Binary,USA,Books,194.21,9,1747.89,5,1660.5,PayPal,2024-12-04,12,Delivered,1,Yes,Yes,19.2,Regular
+T10168,C5168,45,Non-Binary,Germany,Home & Kitchen,311.58,8,2492.64,5,2368.01,PayPal,2024-07-14,14,Returned,4,No,No,28.2,Regular
+T10169,C5169,45,Male,India,Clothing,229.93,9,2069.37,10,1862.43,PayPal,2023-02-07,4,In Transit,2,Yes,No,18.3,Occasional
+T10170,C5170,61,Non-Binary,UK,Sports,391.19,4,1564.76,0,1564.76,Credit Card,2024-11-09,1,Delivered,5,No,Yes,13.8,Premium
+T10171,C5171,61,Male,Germany,Clothing,498.82,1,498.82,20,399.06,Bank Transfer,2023-09-11,8,Cancelled,5,Yes,No,24.9,Regular
+T10172,C5172,37,Male,Germany,Home & Kitchen,99.61,1,99.61,20,79.69,Debit Card,2023-02-09,4,Delivered,4,Yes,No,16.1,Regular
+T10173,C5173,47,Male,UK,Home & Kitchen,232.53,5,1162.65,5,1104.52,Credit Card,2023-03-03,3,Cancelled,5,Yes,No,13.0,Regular
+T10174,C5174,28,Female,UK,Clothing,218.34,2,436.68,0,436.68,PayPal,2023-11-18,9,Returned,3,No,No,23.1,Regular
+T10175,C5175,45,Male,USA,Electronics,155.72,8,1245.76,0,1245.76,Debit Card,2023-07-16,10,In Transit,4,Yes,No,25.0,Regular
+T10176,C5176,42,Male,Germany,Electronics,103.06,5,515.3,0,515.3,PayPal,2024-02-29,4,Delivered,5,Yes,Yes,24.8,Premium
+T10177,C5177,56,Female,Australia,Electronics,37.52,5,187.6,15,159.46,PayPal,2023-02-15,4,In Transit,1,Yes,No,29.4,Occasional
+T10178,C5178,50,Male,UK,Home & Kitchen,444.12,2,888.24,15,755.0,Credit Card,2024-05-25,14,Delivered,5,No,No,24.7,Regular
+T10179,C5179,18,Non-Binary,UK,Books,212.83,7,1489.81,5,1415.32,PayPal,2023-08-06,9,Cancelled,3,Yes,Yes,24.2,Regular
+T10180,C5180,44,Non-Binary,India,Home & Kitchen,250.96,8,2007.68,0,2007.68,Debit Card,2024-04-09,13,In Transit,2,No,No,26.4,Occasional
+T10181,C5181,30,Male,Australia,Books,458.89,1,458.89,0,458.89,PayPal,2024-05-27,12,Delivered,2,Yes,Yes,5.0,Regular
+T10182,C5182,58,Female,Australia,Clothing,389.26,2,778.52,20,622.82,Bank Transfer,2023-03-29,11,Returned,5,Yes,No,14.1,Regular
+T10183,C5183,20,Non-Binary,UK,Sports,69.6,4,278.4,20,222.72,PayPal,2023-02-14,12,Cancelled,2,Yes,No,23.4,Occasional
+T10184,C5184,56,Female,USA,Books,284.88,5,1424.4,5,1353.18,Credit Card,2023-01-10,14,In Transit,5,No,Yes,20.0,Premium
+T10185,C5185,23,Female,India,Electronics,223.91,2,447.82,0,447.82,Debit Card,2023-06-01,2,Delivered,3,Yes,No,9.4,Regular
+T10186,C5186,25,Non-Binary,Australia,Home & Kitchen,399.62,1,399.62,5,379.64,Credit Card,2023-06-08,14,In Transit,2,Yes,No,12.6,Occasional
+T10187,C5187,44,Female,UK,Clothing,363.5,9,3271.5,20,2617.2,Bank Transfer,2023-11-20,12,Delivered,1,Yes,Yes,13.4,Regular
+T10188,C5188,26,Non-Binary,Australia,Electronics,346.75,1,346.75,20,277.4,PayPal,2024-02-16,5,Cancelled,5,Yes,Yes,19.2,Premium
+T10189,C5189,54,Female,India,Clothing,173.57,4,694.28,15,590.14,Credit Card,2023-02-19,4,Returned,2,No,No,25.8,Occasional
+T10190,C5190,50,Non-Binary,India,Sports,403.46,2,806.92,5,766.57,Credit Card,2024-08-04,9,Cancelled,3,Yes,Yes,28.3,Regular
+T10191,C5191,59,Male,Germany,Home & Kitchen,30.93,4,123.72,5,117.53,Credit Card,2024-08-27,12,In Transit,3,Yes,No,23.8,Regular
+T10192,C5192,61,Non-Binary,UK,Home & Kitchen,84.01,8,672.08,0,672.08,Credit Card,2024-12-30,5,In Transit,1,Yes,Yes,26.1,Regular
+T10193,C5193,41,Non-Binary,India,Sports,171.13,8,1369.04,0,1369.04,Bank Transfer,2023-01-05,9,Delivered,3,Yes,No,16.8,Regular
+T10194,C5194,32,Non-Binary,Germany,Home & Kitchen,43.02,9,387.18,15,329.1,Bank Transfer,2024-08-07,11,Cancelled,3,No,Yes,14.7,Regular
+T10195,C5195,49,Non-Binary,Germany,Books,121.32,5,606.6,10,545.94,PayPal,2024-11-10,9,Delivered,2,Yes,Yes,14.8,Regular
+T10196,C5196,49,Female,Australia,Clothing,415.92,7,2911.44,10,2620.3,PayPal,2024-03-09,14,Cancelled,5,Yes,Yes,20.4,Premium
+T10197,C5197,41,Male,Australia,Electronics,474.38,3,1423.14,10,1280.83,Debit Card,2024-07-04,2,In Transit,4,No,Yes,8.1,Premium
+T10198,C5198,58,Non-Binary,Germany,Sports,155.78,4,623.12,5,591.96,Bank Transfer,2023-04-06,14,Delivered,3,Yes,Yes,19.5,Regular
+T10199,C5199,29,Female,Australia,Books,135.94,9,1223.46,5,1162.29,Credit Card,2023-04-02,9,Delivered,3,Yes,Yes,21.6,Regular
+T10200,C5200,56,Male,India,Electronics,143.55,1,143.55,20,114.84,Credit Card,2024-05-19,3,Cancelled,4,Yes,Yes,16.0,Premium
+T10201,C5201,19,Male,USA,Electronics,142.47,2,284.94,5,270.69,Debit Card,2023-09-25,4,Returned,3,No,Yes,28.8,Regular
+T10202,C5202,20,Male,India,Sports,22.79,5,113.95,5,108.25,Credit Card,2023-10-10,1,Cancelled,2,Yes,Yes,20.2,Regular
+T10203,C5203,54,Male,Germany,Books,463.82,3,1391.46,5,1321.89,Debit Card,2024-05-29,14,Returned,2,No,No,10.5,Occasional
+T10204,C5204,34,Non-Binary,Germany,Electronics,110.78,2,221.56,15,188.33,PayPal,2024-03-13,1,Cancelled,4,No,Yes,17.0,Premium
+T10205,C5205,19,Non-Binary,India,Electronics,212.9,1,212.9,5,202.26,Bank Transfer,2023-02-11,1,In Transit,3,No,No,21.9,Regular
+T10206,C5206,19,Female,Australia,Books,9.8,3,29.4,0,29.4,Debit Card,2024-03-25,9,Delivered,3,No,Yes,13.1,Regular
+T10207,C5207,45,Female,Australia,Home & Kitchen,429.69,1,429.69,0,429.69,Credit Card,2023-08-06,11,Cancelled,5,No,No,7.0,Regular
+T10208,C5208,40,Female,Germany,Electronics,366.92,1,366.92,20,293.54,Debit Card,2023-11-18,8,In Transit,3,No,No,19.6,Regular
+T10209,C5209,54,Male,UK,Clothing,473.64,1,473.64,15,402.59,PayPal,2023-12-21,5,Cancelled,2,No,Yes,28.7,Regular
+T10210,C5210,49,Male,Australia,Books,391.9,8,3135.2,0,3135.2,Credit Card,2024-01-18,5,Delivered,1,Yes,Yes,17.1,Regular
+T10211,C5211,50,Non-Binary,India,Electronics,160.28,3,480.84,15,408.71,PayPal,2024-11-26,9,Cancelled,1,Yes,No,27.7,Occasional
+T10212,C5212,18,Male,Australia,Sports,127.7,1,127.7,15,108.54,PayPal,2023-11-14,3,Returned,1,No,No,25.9,Occasional
+T10213,C5213,36,Male,India,Clothing,350.37,7,2452.59,20,1962.07,Debit Card,2024-04-22,3,Delivered,1,No,Yes,8.7,Regular
+T10214,C5214,19,Male,Germany,Electronics,185.24,3,555.72,15,472.36,PayPal,2024-02-26,7,Returned,3,No,Yes,22.7,Regular
+T10215,C5215,61,Female,Australia,Clothing,285.28,8,2282.24,5,2168.13,Credit Card,2024-12-04,9,In Transit,3,No,Yes,15.9,Regular
+T10216,C5216,43,Female,India,Clothing,8.1,4,32.4,15,27.54,PayPal,2024-08-28,6,In Transit,5,No,No,11.3,Regular
+T10217,C5217,49,Non-Binary,Germany,Home & Kitchen,35.63,4,142.52,20,114.02,PayPal,2023-08-13,14,Cancelled,3,No,Yes,22.2,Regular
+T10218,C5218,23,Male,UK,Clothing,270.01,5,1350.05,20,1080.04,Debit Card,2024-07-29,2,Returned,1,Yes,Yes,23.6,Regular
+T10219,C5219,49,Male,India,Home & Kitchen,285.21,6,1711.26,20,1369.01,PayPal,2024-12-07,1,Returned,4,Yes,Yes,9.5,Premium
+T10220,C5220,21,Non-Binary,UK,Books,376.97,7,2638.79,0,2638.79,Bank Transfer,2023-10-19,2,Delivered,4,No,Yes,27.9,Premium
+T10221,C5221,28,Male,UK,Home & Kitchen,70.32,4,281.28,5,267.22,Debit Card,2024-08-24,14,Returned,2,No,Yes,23.8,Regular
+T10222,C5222,34,Male,USA,Sports,259.03,8,2072.24,0,2072.24,Debit Card,2024-06-05,14,Returned,2,No,No,28.3,Occasional
+T10223,C5223,55,Female,Australia,Electronics,101.25,6,607.5,10,546.75,Credit Card,2024-02-07,1,Delivered,3,Yes,No,12.9,Regular
+T10224,C5224,41,Non-Binary,India,Books,51.13,1,51.13,5,48.57,Credit Card,2024-04-20,10,Delivered,4,No,Yes,28.5,Premium
+T10225,C5225,22,Non-Binary,UK,Books,208.2,1,208.2,15,176.97,Credit Card,2023-05-19,10,Returned,1,Yes,Yes,14.2,Regular
+T10226,C5226,51,Non-Binary,USA,Sports,85.85,9,772.65,20,618.12,Credit Card,2024-12-22,9,Cancelled,1,Yes,No,6.3,Occasional
+T10227,C5227,23,Non-Binary,Germany,Home & Kitchen,114.78,6,688.68,10,619.81,Bank Transfer,2024-11-15,10,Delivered,1,Yes,Yes,24.1,Regular
+T10228,C5228,39,Female,India,Electronics,162.19,8,1297.52,5,1232.64,Debit Card,2024-12-18,12,Delivered,3,No,No,22.6,Regular
+T10229,C5229,28,Female,UK,Home & Kitchen,133.4,7,933.8,0,933.8,PayPal,2024-06-06,14,Returned,3,No,Yes,19.9,Regular
+T10230,C5230,33,Male,Australia,Clothing,48.36,6,290.16,20,232.13,Credit Card,2024-12-14,13,Returned,5,Yes,No,17.2,Regular
+T10231,C5231,50,Male,USA,Home & Kitchen,49.51,4,198.04,0,198.04,Credit Card,2024-08-17,8,Delivered,1,Yes,No,5.8,Occasional
+T10232,C5232,26,Male,UK,Books,100.66,7,704.62,5,669.39,Credit Card,2024-09-23,7,Returned,1,Yes,Yes,20.6,Regular
+T10233,C5233,23,Male,Australia,Electronics,30.03,9,270.27,5,256.76,PayPal,2023-05-16,3,Delivered,3,Yes,No,15.4,Regular
+T10234,C5234,33,Female,UK,Home & Kitchen,315.1,7,2205.7,10,1985.13,Credit Card,2023-08-30,8,Cancelled,3,No,Yes,19.0,Regular
+T10235,C5235,46,Non-Binary,India,Electronics,147.23,1,147.23,15,125.15,PayPal,2023-07-05,2,Cancelled,5,Yes,No,15.7,Regular
+T10236,C5236,20,Female,India,Electronics,143.47,9,1291.23,0,1291.23,Debit Card,2024-08-04,2,Delivered,5,No,Yes,29.2,Premium
+T10237,C5237,37,Male,India,Clothing,169.34,4,677.36,10,609.62,Debit Card,2024-05-19,11,Delivered,2,Yes,Yes,20.1,Regular
+T10238,C5238,53,Female,USA,Clothing,333.08,3,999.24,20,799.39,Debit Card,2024-05-03,10,In Transit,4,No,Yes,23.7,Premium
+T10239,C5239,36,Non-Binary,India,Books,435.96,4,1743.84,15,1482.26,Bank Transfer,2023-12-12,3,In Transit,1,Yes,No,28.4,Occasional
+T10240,C5240,43,Non-Binary,Australia,Sports,380.75,4,1523.0,10,1370.7,PayPal,2023-06-24,7,Returned,1,No,Yes,19.8,Regular
+T10241,C5241,20,Female,UK,Electronics,365.13,2,730.26,0,730.26,Credit Card,2023-04-19,1,Returned,5,No,Yes,5.3,Premium
+T10242,C5242,36,Female,Germany,Sports,244.77,1,244.77,5,232.53,Credit Card,2023-11-27,8,Delivered,5,No,Yes,5.9,Premium
+T10243,C5243,37,Female,Australia,Books,348.43,1,348.43,20,278.74,Credit Card,2023-04-22,12,Delivered,2,Yes,No,22.6,Occasional
+T10244,C5244,49,Male,Australia,Electronics,278.62,8,2228.96,0,2228.96,Credit Card,2023-06-02,7,In Transit,4,No,Yes,12.0,Premium
+T10245,C5245,24,Female,India,Electronics,112.04,2,224.08,15,190.47,Bank Transfer,2023-03-07,4,In Transit,2,Yes,No,19.5,Occasional
+T10246,C5246,58,Female,USA,Sports,108.25,5,541.25,15,460.06,Credit Card,2024-03-05,14,Delivered,4,No,No,10.1,Regular
+T10247,C5247,50,Female,UK,Home & Kitchen,151.71,4,606.84,5,576.5,Bank Transfer,2024-07-15,5,Cancelled,1,No,No,11.8,Occasional
+T10248,C5248,57,Non-Binary,USA,Clothing,455.85,8,3646.8,5,3464.46,PayPal,2023-11-01,10,Cancelled,2,Yes,Yes,17.6,Regular
+T10249,C5249,56,Non-Binary,UK,Home & Kitchen,275.97,2,551.94,20,441.55,Debit Card,2023-09-07,13,Returned,5,No,Yes,29.4,Premium
+T10250,C5250,35,Male,UK,Sports,368.28,9,3314.52,20,2651.62,Credit Card,2024-06-01,1,Delivered,2,No,No,20.4,Occasional
+T10251,C5251,57,Male,USA,Clothing,176.55,7,1235.85,5,1174.06,Debit Card,2023-08-23,4,Delivered,2,Yes,Yes,28.4,Regular
+T10252,C5252,18,Non-Binary,Australia,Home & Kitchen,206.82,7,1447.74,5,1375.35,PayPal,2024-10-14,1,Returned,1,No,Yes,29.0,Regular
+T10253,C5253,28,Non-Binary,UK,Clothing,67.15,1,67.15,15,57.08,PayPal,2023-04-18,1,In Transit,5,No,No,10.2,Regular
+T10254,C5254,45,Non-Binary,USA,Electronics,89.79,2,179.58,5,170.6,Credit Card,2024-10-11,10,In Transit,5,No,No,12.8,Regular
+T10255,C5255,42,Female,UK,Home & Kitchen,414.54,4,1658.16,10,1492.34,PayPal,2024-12-27,1,Cancelled,3,No,Yes,24.2,Regular
+T10256,C5256,40,Female,Germany,Clothing,294.5,4,1178.0,0,1178.0,Debit Card,2023-07-31,7,Delivered,3,Yes,No,26.7,Regular
+T10257,C5257,48,Non-Binary,Australia,Clothing,172.08,3,516.24,5,490.43,Credit Card,2024-11-05,7,In Transit,3,No,Yes,18.0,Regular
+T10258,C5258,47,Female,India,Clothing,402.41,7,2816.87,20,2253.5,Bank Transfer,2024-11-29,4,Cancelled,1,No,No,29.8,Occasional
+T10259,C5259,59,Female,UK,Home & Kitchen,127.03,8,1016.24,10,914.62,Credit Card,2024-12-08,13,Cancelled,2,No,Yes,5.3,Regular
+T10260,C5260,52,Male,Germany,Books,488.14,2,976.28,20,781.02,Debit Card,2024-02-24,12,Cancelled,5,No,Yes,12.5,Premium
+T10261,C5261,24,Non-Binary,India,Home & Kitchen,175.68,4,702.72,10,632.45,Credit Card,2024-12-05,2,In Transit,5,No,No,20.6,Regular
+T10262,C5262,33,Non-Binary,India,Sports,171.97,3,515.91,5,490.11,Credit Card,2023-08-19,12,In Transit,2,No,Yes,16.7,Regular
+T10263,C5263,43,Female,UK,Home & Kitchen,159.4,2,318.8,0,318.8,Debit Card,2023-12-31,3,Delivered,5,No,Yes,7.9,Premium
+T10264,C5264,19,Non-Binary,USA,Clothing,65.45,6,392.7,20,314.16,Credit Card,2023-05-10,8,Delivered,2,No,No,14.2,Occasional
+T10265,C5265,18,Male,UK,Electronics,60.01,4,240.04,10,216.04,Credit Card,2024-03-12,13,Cancelled,1,Yes,Yes,5.6,Regular
+T10266,C5266,29,Male,Germany,Home & Kitchen,325.81,6,1954.86,15,1661.63,Debit Card,2023-12-31,8,Cancelled,1,Yes,Yes,21.1,Regular
+T10267,C5267,22,Male,India,Home & Kitchen,438.18,2,876.36,5,832.54,PayPal,2024-04-17,11,In Transit,1,Yes,Yes,27.3,Regular
+T10268,C5268,54,Non-Binary,UK,Clothing,396.31,4,1585.24,0,1585.24,Debit Card,2023-09-21,11,In Transit,2,Yes,No,27.1,Occasional
+T10269,C5269,49,Non-Binary,USA,Electronics,74.85,6,449.1,5,426.64,Credit Card,2023-04-09,6,Delivered,2,No,No,22.5,Occasional
+T10270,C5270,26,Non-Binary,UK,Electronics,275.06,5,1375.3,15,1169.0,Bank Transfer,2023-06-25,10,Delivered,4,No,No,16.6,Regular
+T10271,C5271,58,Non-Binary,Australia,Sports,57.27,3,171.81,0,171.81,Bank Transfer,2024-08-27,9,Returned,5,Yes,No,17.8,Regular
+T10272,C5272,52,Non-Binary,USA,Home & Kitchen,27.42,8,219.36,15,186.46,Debit Card,2024-04-12,11,Delivered,5,Yes,No,8.4,Regular
+T10273,C5273,36,Male,Germany,Electronics,329.91,7,2309.37,5,2193.9,Bank Transfer,2024-11-23,12,In Transit,4,Yes,Yes,13.5,Premium
+T10274,C5274,33,Female,India,Electronics,269.9,3,809.7,10,728.73,Credit Card,2024-02-19,9,Cancelled,4,No,Yes,9.7,Premium
+T10275,C5275,20,Male,UK,Books,45.6,6,273.6,5,259.92,Credit Card,2024-04-10,4,Returned,1,No,Yes,25.5,Regular
+T10276,C5276,37,Non-Binary,USA,Books,22.29,4,89.16,5,84.7,Debit Card,2023-06-10,12,Delivered,4,Yes,No,27.9,Regular
+T10277,C5277,41,Male,Australia,Electronics,494.93,5,2474.65,5,2350.92,Credit Card,2023-01-24,1,Delivered,2,Yes,Yes,18.4,Regular
+T10278,C5278,50,Non-Binary,USA,Sports,19.86,5,99.3,20,79.44,PayPal,2024-01-18,1,In Transit,3,Yes,No,23.2,Regular
+T10279,C5279,41,Non-Binary,Australia,Electronics,225.04,7,1575.28,15,1338.99,Credit Card,2023-01-05,12,Returned,2,Yes,Yes,8.0,Regular
+T10280,C5280,28,Male,Germany,Clothing,254.79,5,1273.95,15,1082.86,Debit Card,2024-01-28,10,Delivered,4,Yes,No,20.2,Regular
+T10281,C5281,25,Non-Binary,India,Home & Kitchen,63.05,3,189.15,15,160.78,PayPal,2024-10-24,5,Cancelled,5,No,Yes,22.6,Premium
+T10282,C5282,53,Female,Germany,Sports,88.69,5,443.45,20,354.76,PayPal,2024-06-14,14,In Transit,2,Yes,Yes,16.3,Regular
+T10283,C5283,55,Non-Binary,UK,Clothing,179.14,7,1253.98,10,1128.58,Bank Transfer,2023-07-07,13,Returned,5,No,No,11.1,Regular
+T10284,C5284,57,Female,USA,Sports,382.03,5,1910.15,5,1814.64,Credit Card,2024-01-11,2,Delivered,2,Yes,Yes,26.9,Regular
+T10285,C5285,37,Female,Australia,Clothing,256.01,5,1280.05,10,1152.04,Debit Card,2023-11-01,6,Delivered,5,Yes,Yes,23.6,Premium
+T10286,C5286,52,Non-Binary,Australia,Home & Kitchen,320.76,9,2886.84,20,2309.47,Bank Transfer,2023-06-23,7,Returned,2,No,No,27.5,Occasional
+T10287,C5287,42,Male,USA,Home & Kitchen,492.66,3,1477.98,15,1256.28,Bank Transfer,2024-11-16,1,In Transit,5,Yes,Yes,25.5,Premium
+T10288,C5288,52,Female,USA,Books,385.16,6,2310.96,5,2195.41,Credit Card,2024-02-05,6,Returned,3,No,Yes,29.8,Regular
+T10289,C5289,42,Male,UK,Clothing,220.01,1,220.01,0,220.01,Credit Card,2023-06-25,8,Returned,1,No,No,9.8,Occasional
+T10290,C5290,46,Female,Germany,Books,225.99,5,1129.95,0,1129.95,Debit Card,2023-02-21,12,In Transit,2,Yes,No,7.2,Occasional
+T10291,C5291,35,Non-Binary,Australia,Clothing,311.29,8,2490.32,10,2241.29,Bank Transfer,2024-05-07,5,Delivered,3,Yes,No,13.4,Regular
+T10292,C5292,63,Non-Binary,UK,Books,334.36,5,1671.8,15,1421.03,Debit Card,2024-03-21,14,Cancelled,1,No,No,8.2,Occasional
+T10293,C5293,35,Female,Germany,Home & Kitchen,252.85,9,2275.65,0,2275.65,Bank Transfer,2024-02-21,12,In Transit,2,No,No,18.1,Occasional
+T10294,C5294,19,Non-Binary,UK,Sports,324.21,6,1945.26,10,1750.73,Bank Transfer,2024-06-23,7,Cancelled,3,Yes,Yes,20.8,Regular
+T10295,C5295,52,Female,Australia,Books,16.65,8,133.2,20,106.56,Bank Transfer,2023-05-06,10,Delivered,3,No,No,19.5,Regular
+T10296,C5296,33,Non-Binary,USA,Clothing,217.66,8,1741.28,10,1567.15,Credit Card,2024-12-16,6,Returned,3,Yes,No,11.5,Regular
+T10297,C5297,58,Male,USA,Clothing,143.07,3,429.21,10,386.29,Bank Transfer,2023-11-16,4,Cancelled,4,No,Yes,27.7,Premium
+T10298,C5298,53,Non-Binary,Germany,Home & Kitchen,68.94,7,482.58,10,434.32,Bank Transfer,2023-09-12,7,Delivered,5,Yes,Yes,5.5,Premium
+T10299,C5299,50,Male,India,Clothing,54.28,7,379.96,5,360.96,Bank Transfer,2023-02-24,10,Delivered,1,No,Yes,13.7,Regular
+T10300,C5300,21,Non-Binary,Germany,Electronics,303.58,6,1821.48,10,1639.33,PayPal,2024-01-01,9,Returned,5,No,Yes,23.0,Premium
+T10301,C5301,50,Male,India,Sports,264.18,7,1849.26,10,1664.33,Credit Card,2023-05-20,10,Returned,5,Yes,Yes,24.2,Premium
+T10302,C5302,31,Non-Binary,UK,Books,130.52,2,261.04,5,247.99,PayPal,2024-12-21,10,Delivered,5,No,No,15.4,Regular
+T10303,C5303,38,Male,UK,Sports,238.12,9,2143.08,5,2035.93,Credit Card,2024-02-14,13,Delivered,3,No,Yes,5.4,Regular
+T10304,C5304,37,Female,Australia,Home & Kitchen,248.65,1,248.65,20,198.92,Debit Card,2024-05-06,7,Cancelled,5,No,No,20.5,Regular
+T10305,C5305,25,Female,India,Books,101.53,1,101.53,15,86.3,PayPal,2023-06-14,12,Delivered,4,No,Yes,6.6,Premium
+T10306,C5306,24,Male,Australia,Books,327.79,3,983.37,0,983.37,Debit Card,2024-11-16,14,Delivered,2,No,No,7.7,Occasional
+T10307,C5307,20,Non-Binary,USA,Electronics,391.56,3,1174.68,0,1174.68,Bank Transfer,2023-10-23,5,Cancelled,3,No,Yes,21.3,Regular
+T10308,C5308,34,Male,India,Home & Kitchen,396.77,1,396.77,10,357.09,Debit Card,2024-06-24,7,In Transit,1,No,No,12.8,Occasional
+T10309,C5309,50,Non-Binary,Germany,Clothing,303.22,7,2122.54,20,1698.03,Debit Card,2024-05-25,3,Cancelled,2,Yes,No,13.7,Occasional
+T10310,C5310,29,Female,USA,Electronics,258.26,4,1033.04,10,929.74,Debit Card,2023-03-13,2,Cancelled,2,No,No,17.2,Occasional
+T10311,C5311,39,Non-Binary,USA,Electronics,35.2,2,70.4,0,70.4,Debit Card,2023-10-30,11,Returned,2,No,No,29.5,Occasional
+T10312,C5312,39,Female,Germany,Sports,147.48,5,737.4,5,700.53,Credit Card,2024-02-01,5,Cancelled,5,Yes,No,29.1,Regular
+T10313,C5313,63,Non-Binary,USA,Sports,51.17,6,307.02,15,260.97,PayPal,2023-07-10,4,Delivered,5,No,No,15.4,Regular
+T10314,C5314,47,Non-Binary,India,Sports,482.09,9,4338.81,20,3471.05,Credit Card,2023-04-10,5,Delivered,3,No,No,11.6,Regular
+T10315,C5315,55,Non-Binary,Australia,Electronics,71.86,4,287.44,5,273.07,Credit Card,2024-03-31,8,Delivered,5,Yes,No,12.6,Regular
+T10316,C5316,55,Male,USA,Clothing,80.13,2,160.26,15,136.22,Credit Card,2024-09-30,12,In Transit,5,No,No,11.7,Regular
+T10317,C5317,62,Male,India,Books,445.34,5,2226.7,20,1781.36,Debit Card,2023-12-06,4,Delivered,5,No,No,18.3,Regular
+T10318,C5318,25,Female,UK,Sports,472.24,3,1416.72,20,1133.38,Credit Card,2024-03-09,9,In Transit,3,Yes,Yes,20.2,Regular
+T10319,C5319,44,Female,India,Clothing,384.09,2,768.18,0,768.18,PayPal,2024-06-02,7,Delivered,3,Yes,No,17.2,Regular
+T10320,C5320,44,Male,Australia,Home & Kitchen,7.68,1,7.68,5,7.3,Credit Card,2023-10-18,10,Cancelled,4,No,No,15.2,Regular
+T10321,C5321,51,Female,India,Sports,5.67,2,11.34,20,9.07,Bank Transfer,2024-03-24,13,Returned,4,No,Yes,10.3,Premium
+T10322,C5322,38,Male,Germany,Books,192.16,6,1152.96,20,922.37,Debit Card,2023-05-02,12,Delivered,4,Yes,No,17.1,Regular
+T10323,C5323,47,Non-Binary,Australia,Home & Kitchen,75.98,8,607.84,15,516.66,Bank Transfer,2024-01-10,7,In Transit,4,No,No,13.5,Regular
+T10324,C5324,50,Female,UK,Home & Kitchen,14.1,3,42.3,0,42.3,PayPal,2023-11-10,13,In Transit,2,Yes,Yes,18.5,Regular
+T10325,C5325,45,Female,Germany,Books,234.71,9,2112.39,10,1901.15,PayPal,2024-04-03,13,Returned,2,Yes,Yes,21.9,Regular
+T10326,C5326,64,Male,India,Sports,471.82,9,4246.38,0,4246.38,PayPal,2023-11-01,8,Delivered,4,Yes,No,20.8,Regular
+T10327,C5327,50,Female,Australia,Electronics,165.29,2,330.58,10,297.52,PayPal,2024-04-11,12,Cancelled,4,No,Yes,16.6,Premium
+T10328,C5328,22,Female,UK,Books,332.26,8,2658.08,5,2525.18,Credit Card,2024-05-03,6,Delivered,1,Yes,No,18.9,Occasional
+T10329,C5329,36,Non-Binary,Germany,Books,327.86,5,1639.3,5,1557.34,Debit Card,2024-08-04,8,Delivered,2,Yes,No,12.1,Occasional
+T10330,C5330,21,Female,UK,Books,129.28,4,517.12,20,413.7,PayPal,2023-01-14,3,Returned,1,Yes,No,5.6,Occasional
+T10331,C5331,52,Non-Binary,India,Home & Kitchen,326.96,5,1634.8,5,1553.06,Bank Transfer,2024-08-16,10,Delivered,1,No,Yes,20.6,Regular
+T10332,C5332,34,Male,UK,Clothing,110.11,4,440.44,20,352.35,PayPal,2024-01-05,10,Cancelled,5,No,No,11.3,Regular
+T10333,C5333,61,Female,USA,Electronics,65.39,8,523.12,0,523.12,Debit Card,2023-12-08,14,In Transit,3,No,No,21.7,Regular
+T10334,C5334,45,Non-Binary,Germany,Sports,352.18,4,1408.72,5,1338.28,Bank Transfer,2023-11-03,1,Returned,2,Yes,Yes,23.7,Regular
+T10335,C5335,47,Male,UK,Sports,61.15,6,366.9,0,366.9,Bank Transfer,2023-12-02,6,Cancelled,4,No,No,27.9,Regular
+T10336,C5336,46,Female,India,Clothing,498.47,2,996.94,0,996.94,Bank Transfer,2023-05-08,1,In Transit,4,No,No,29.0,Regular
+T10337,C5337,63,Male,India,Books,95.81,5,479.05,5,455.1,Credit Card,2023-06-28,9,Returned,3,Yes,No,5.3,Regular
+T10338,C5338,23,Female,UK,Electronics,299.1,6,1794.6,0,1794.6,PayPal,2024-12-23,14,Returned,2,Yes,No,29.8,Occasional
+T10339,C5339,52,Male,India,Sports,208.63,5,1043.15,5,990.99,Credit Card,2023-10-31,2,In Transit,4,No,No,22.1,Regular
+T10340,C5340,58,Male,Australia,Sports,67.56,2,135.12,5,128.36,Bank Transfer,2023-03-30,11,In Transit,4,No,No,21.1,Regular
+T10341,C5341,54,Non-Binary,Australia,Books,18.78,7,131.46,5,124.89,Credit Card,2023-12-16,2,Cancelled,5,Yes,Yes,5.4,Premium
+T10342,C5342,41,Male,Australia,Clothing,313.25,4,1253.0,10,1127.7,Credit Card,2024-01-14,7,Delivered,1,No,No,26.5,Occasional
+T10343,C5343,46,Female,USA,Electronics,404.34,8,3234.72,0,3234.72,Credit Card,2023-04-20,2,Delivered,4,Yes,No,8.6,Regular
+T10344,C5344,63,Female,UK,Clothing,421.8,7,2952.6,15,2509.71,PayPal,2024-07-12,10,Delivered,2,Yes,Yes,25.9,Regular
+T10345,C5345,48,Non-Binary,USA,Clothing,243.94,7,1707.58,5,1622.2,Bank Transfer,2023-05-08,8,Delivered,3,No,No,5.4,Regular
+T10346,C5346,52,Female,India,Electronics,389.84,9,3508.56,0,3508.56,Bank Transfer,2024-03-20,6,Delivered,5,No,No,21.1,Regular
+T10347,C5347,50,Female,USA,Electronics,338.06,1,338.06,20,270.45,PayPal,2023-01-06,14,Cancelled,2,No,Yes,15.9,Regular
+T10348,C5348,38,Female,India,Sports,363.51,6,2181.06,5,2072.01,Credit Card,2023-05-26,7,Returned,5,No,Yes,10.0,Premium
+T10349,C5349,49,Male,India,Sports,248.84,6,1493.04,5,1418.39,Credit Card,2023-03-10,7,Cancelled,1,Yes,Yes,7.7,Regular
+T10350,C5350,40,Male,Germany,Electronics,318.54,6,1911.24,15,1624.55,Debit Card,2024-11-10,6,Cancelled,4,No,Yes,16.0,Premium
+T10351,C5351,50,Female,Australia,Home & Kitchen,403.74,6,2422.44,10,2180.2,Debit Card,2024-09-07,10,Cancelled,2,No,Yes,8.1,Regular
+T10352,C5352,20,Non-Binary,India,Sports,201.95,7,1413.65,10,1272.28,Debit Card,2024-07-25,11,Returned,3,No,Yes,17.2,Regular
+T10353,C5353,35,Male,Germany,Home & Kitchen,403.96,6,2423.76,5,2302.57,PayPal,2024-10-05,9,Cancelled,1,Yes,Yes,20.6,Regular
+T10354,C5354,42,Non-Binary,Australia,Electronics,298.05,1,298.05,0,298.05,Bank Transfer,2023-02-09,13,Cancelled,1,No,No,25.7,Occasional
+T10355,C5355,59,Female,India,Sports,87.12,3,261.36,20,209.09,Debit Card,2023-10-16,9,Returned,5,No,No,22.0,Regular
+T10356,C5356,48,Female,India,Clothing,17.22,2,34.44,20,27.55,Bank Transfer,2024-02-14,7,Cancelled,1,Yes,No,6.6,Occasional
+T10357,C5357,20,Male,USA,Electronics,184.56,6,1107.36,0,1107.36,Bank Transfer,2023-06-07,9,Delivered,2,Yes,Yes,12.7,Regular
+T10358,C5358,57,Female,USA,Books,275.61,8,2204.88,5,2094.64,Bank Transfer,2023-02-07,13,In Transit,5,Yes,No,12.2,Regular
+T10359,C5359,63,Male,Australia,Home & Kitchen,420.71,3,1262.13,20,1009.7,PayPal,2023-09-14,10,Cancelled,1,Yes,Yes,27.9,Regular
+T10360,C5360,41,Female,India,Electronics,68.11,8,544.88,10,490.39,PayPal,2023-04-01,3,In Transit,3,Yes,No,26.7,Regular
+T10361,C5361,49,Female,UK,Electronics,401.1,8,3208.8,0,3208.8,PayPal,2024-08-06,3,Cancelled,2,No,No,14.3,Occasional
+T10362,C5362,64,Male,USA,Sports,432.19,5,2160.95,15,1836.81,PayPal,2024-09-11,1,Cancelled,3,Yes,No,6.8,Regular
+T10363,C5363,39,Male,Australia,Sports,79.59,8,636.72,5,604.88,Debit Card,2023-07-06,5,Delivered,3,Yes,No,27.4,Regular
+T10364,C5364,40,Male,India,Sports,426.54,6,2559.24,0,2559.24,Credit Card,2023-12-21,4,Returned,5,Yes,Yes,27.2,Premium
+T10365,C5365,19,Female,India,Books,495.77,5,2478.85,20,1983.08,Credit Card,2024-10-30,2,In Transit,4,Yes,Yes,26.4,Premium
+T10366,C5366,44,Female,UK,Sports,364.79,9,3283.11,5,3118.95,Credit Card,2023-09-03,9,Returned,5,Yes,No,26.1,Regular
+T10367,C5367,59,Non-Binary,Australia,Electronics,393.46,7,2754.22,10,2478.8,Debit Card,2023-04-02,3,Delivered,2,Yes,Yes,17.0,Regular
+T10368,C5368,19,Male,India,Sports,497.24,8,3977.92,5,3779.02,Credit Card,2024-07-14,8,Delivered,2,Yes,Yes,9.4,Regular
+T10369,C5369,43,Female,USA,Clothing,304.71,1,304.71,5,289.47,Debit Card,2023-11-28,6,In Transit,5,Yes,No,16.9,Regular
+T10370,C5370,34,Female,UK,Sports,157.4,2,314.8,10,283.32,Debit Card,2023-07-08,14,Returned,4,No,Yes,17.4,Premium
+T10371,C5371,57,Male,Australia,Books,419.58,8,3356.64,10,3020.98,Debit Card,2023-11-24,13,Delivered,5,No,Yes,17.2,Premium
+T10372,C5372,50,Non-Binary,UK,Clothing,309.17,9,2782.53,5,2643.4,Credit Card,2023-01-09,5,Cancelled,2,No,Yes,18.5,Regular
+T10373,C5373,26,Male,USA,Electronics,292.69,4,1170.76,10,1053.68,Bank Transfer,2024-06-14,1,Cancelled,4,Yes,Yes,11.4,Premium
+T10374,C5374,60,Non-Binary,Australia,Electronics,130.55,9,1174.95,0,1174.95,Credit Card,2024-08-26,4,Cancelled,2,Yes,No,14.2,Occasional
+T10375,C5375,56,Female,UK,Home & Kitchen,379.39,4,1517.56,10,1365.8,Credit Card,2023-03-30,3,Returned,4,Yes,No,15.9,Regular
+T10376,C5376,46,Non-Binary,Germany,Clothing,45.43,9,408.87,10,367.98,PayPal,2023-09-04,1,Cancelled,4,No,Yes,8.3,Premium
+T10377,C5377,59,Female,USA,Home & Kitchen,462.52,7,3237.64,5,3075.76,Debit Card,2024-01-23,12,Cancelled,5,Yes,No,16.4,Regular
+T10378,C5378,43,Male,USA,Clothing,166.28,2,332.56,0,332.56,Bank Transfer,2024-03-15,5,Delivered,5,Yes,No,25.3,Regular
+T10379,C5379,52,Male,USA,Clothing,68.25,9,614.25,15,522.11,PayPal,2024-07-13,6,Delivered,5,Yes,No,25.7,Regular
+T10380,C5380,42,Male,Germany,Books,223.97,4,895.88,15,761.5,Bank Transfer,2024-01-04,2,Cancelled,4,No,Yes,15.3,Premium
+T10381,C5381,41,Non-Binary,Germany,Home & Kitchen,26.02,8,208.16,20,166.53,Bank Transfer,2024-01-03,14,Cancelled,4,No,Yes,18.0,Premium
+T10382,C5382,30,Female,India,Books,343.89,7,2407.23,10,2166.51,Debit Card,2023-02-22,3,Delivered,2,Yes,No,5.8,Occasional
+T10383,C5383,24,Male,UK,Clothing,451.84,7,3162.88,10,2846.59,Credit Card,2023-05-27,11,In Transit,3,No,No,21.9,Regular
+T10384,C5384,53,Male,India,Electronics,419.45,8,3355.6,0,3355.6,Debit Card,2023-05-30,14,Returned,5,Yes,Yes,15.1,Premium
+T10385,C5385,62,Female,UK,Clothing,68.05,1,68.05,15,57.84,Debit Card,2024-12-18,6,Returned,2,Yes,No,16.1,Occasional
+T10386,C5386,37,Male,Germany,Books,67.5,5,337.5,20,270.0,PayPal,2023-04-19,4,Delivered,2,No,Yes,26.8,Regular
+T10387,C5387,18,Female,Germany,Home & Kitchen,407.65,2,815.3,0,815.3,Debit Card,2024-10-28,9,Returned,1,No,No,16.5,Occasional
+T10388,C5388,25,Female,India,Home & Kitchen,462.51,2,925.02,10,832.52,Credit Card,2023-06-05,5,Delivered,5,No,Yes,5.5,Premium
+T10389,C5389,63,Female,Australia,Books,233.03,1,233.03,15,198.08,Bank Transfer,2024-10-04,4,Delivered,2,No,Yes,10.7,Regular
+T10390,C5390,33,Female,India,Home & Kitchen,251.99,5,1259.95,20,1007.96,Debit Card,2023-12-24,2,Delivered,1,Yes,Yes,16.9,Regular
+T10391,C5391,31,Female,UK,Sports,162.54,2,325.08,5,308.83,Bank Transfer,2024-01-16,6,Delivered,5,Yes,Yes,15.6,Premium
+T10392,C5392,29,Non-Binary,India,Electronics,447.66,4,1790.64,15,1522.04,Debit Card,2024-05-30,10,In Transit,4,No,No,26.5,Regular
+T10393,C5393,40,Male,USA,Electronics,324.23,3,972.69,20,778.15,Bank Transfer,2023-01-12,2,Cancelled,1,No,Yes,18.6,Regular
+T10394,C5394,32,Non-Binary,UK,Electronics,147.68,3,443.04,0,443.04,Debit Card,2023-06-19,12,Cancelled,4,Yes,No,22.2,Regular
+T10395,C5395,45,Male,UK,Home & Kitchen,152.9,2,305.8,5,290.51,PayPal,2024-10-26,13,In Transit,3,Yes,Yes,16.7,Regular
+T10396,C5396,51,Non-Binary,Australia,Home & Kitchen,446.14,6,2676.84,20,2141.47,Bank Transfer,2023-04-16,7,Returned,3,Yes,Yes,16.0,Regular
+T10397,C5397,19,Female,Germany,Clothing,11.75,2,23.5,20,18.8,Debit Card,2024-02-09,3,Returned,3,Yes,No,16.2,Regular
+T10398,C5398,49,Male,UK,Clothing,164.75,8,1318.0,10,1186.2,Debit Card,2023-11-08,9,Cancelled,3,No,No,15.3,Regular
+T10399,C5399,40,Male,Germany,Electronics,279.41,8,2235.28,15,1899.99,PayPal,2024-07-12,11,Returned,2,No,No,18.5,Occasional
+T10400,C5400,39,Non-Binary,India,Sports,78.37,5,391.85,10,352.66,PayPal,2024-05-11,5,Cancelled,3,No,Yes,11.3,Regular
+T10401,C5401,42,Non-Binary,USA,Clothing,50.59,7,354.13,5,336.42,PayPal,2024-10-03,8,Cancelled,2,Yes,Yes,27.3,Regular
+T10402,C5402,39,Male,Australia,Clothing,408.56,4,1634.24,20,1307.39,Bank Transfer,2023-12-22,11,In Transit,2,Yes,No,13.3,Occasional
+T10403,C5403,39,Non-Binary,Germany,Home & Kitchen,447.73,1,447.73,10,402.96,Bank Transfer,2024-09-30,6,Returned,5,No,Yes,8.7,Premium
+T10404,C5404,59,Non-Binary,UK,Sports,412.69,2,825.38,15,701.57,PayPal,2023-09-18,14,In Transit,2,No,No,7.4,Occasional
+T10405,C5405,23,Non-Binary,Germany,Electronics,449.9,4,1799.6,5,1709.62,Credit Card,2023-05-12,12,Cancelled,2,No,Yes,5.3,Regular
+T10406,C5406,32,Female,UK,Clothing,278.79,1,278.79,0,278.79,Credit Card,2023-05-02,10,Cancelled,3,Yes,Yes,15.6,Regular
+T10407,C5407,60,Female,Germany,Sports,407.07,8,3256.56,10,2930.9,Debit Card,2023-10-22,8,Cancelled,2,No,Yes,9.7,Regular
+T10408,C5408,54,Non-Binary,UK,Sports,195.1,9,1755.9,5,1668.1,Credit Card,2023-01-11,13,Delivered,4,Yes,No,5.5,Regular
+T10409,C5409,50,Non-Binary,India,Electronics,334.8,4,1339.2,0,1339.2,Debit Card,2023-06-06,13,Delivered,3,No,Yes,18.0,Regular
+T10410,C5410,25,Female,UK,Sports,494.47,3,1483.41,10,1335.07,Bank Transfer,2024-01-27,11,Delivered,1,No,No,22.0,Occasional
+T10411,C5411,61,Female,UK,Sports,116.74,2,233.48,5,221.81,Bank Transfer,2023-06-25,12,In Transit,3,No,No,7.1,Regular
+T10412,C5412,61,Male,USA,Sports,198.0,5,990.0,5,940.5,Credit Card,2023-08-23,3,Cancelled,2,Yes,Yes,16.5,Regular
+T10413,C5413,22,Male,UK,Clothing,242.62,3,727.86,10,655.07,Bank Transfer,2023-07-26,3,Returned,4,Yes,No,23.6,Regular
+T10414,C5414,56,Female,USA,Electronics,73.32,7,513.24,5,487.58,PayPal,2023-02-23,5,In Transit,3,Yes,No,29.6,Regular
+T10415,C5415,21,Non-Binary,Australia,Sports,45.11,6,270.66,20,216.53,PayPal,2023-03-17,11,In Transit,4,Yes,Yes,21.7,Premium
+T10416,C5416,23,Non-Binary,USA,Sports,415.71,1,415.71,10,374.14,Credit Card,2023-04-12,10,In Transit,1,Yes,No,11.1,Occasional
+T10417,C5417,62,Non-Binary,India,Clothing,488.51,8,3908.08,5,3712.68,Credit Card,2024-07-27,3,Returned,1,Yes,No,22.9,Occasional
+T10418,C5418,49,Non-Binary,USA,Electronics,205.34,2,410.68,0,410.68,Debit Card,2023-06-27,8,Cancelled,5,No,Yes,19.9,Premium
+T10419,C5419,47,Male,Australia,Home & Kitchen,48.39,5,241.95,0,241.95,Bank Transfer,2023-11-10,10,Delivered,5,Yes,Yes,10.3,Premium
+T10420,C5420,64,Female,India,Clothing,37.58,9,338.22,20,270.58,Debit Card,2023-01-03,13,Cancelled,3,No,Yes,26.3,Regular
+T10421,C5421,52,Non-Binary,Germany,Electronics,446.2,8,3569.6,10,3212.64,Debit Card,2023-07-09,12,Cancelled,5,Yes,No,15.7,Regular
+T10422,C5422,57,Male,Germany,Sports,234.59,2,469.18,5,445.72,PayPal,2023-01-22,14,In Transit,4,No,No,29.0,Regular
+T10423,C5423,33,Non-Binary,USA,Electronics,163.41,9,1470.69,5,1397.16,PayPal,2024-07-20,8,In Transit,5,No,Yes,23.1,Premium
+T10424,C5424,30,Female,USA,Electronics,240.85,5,1204.25,0,1204.25,PayPal,2023-11-09,2,In Transit,4,Yes,No,21.1,Regular
+T10425,C5425,59,Male,Australia,Electronics,162.56,6,975.36,20,780.29,PayPal,2023-12-18,12,Delivered,5,No,Yes,23.2,Premium
+T10426,C5426,47,Female,Australia,Home & Kitchen,247.07,3,741.21,0,741.21,Debit Card,2024-04-23,4,Delivered,5,Yes,Yes,17.0,Premium
+T10427,C5427,36,Female,UK,Electronics,430.48,3,1291.44,0,1291.44,PayPal,2023-01-11,10,Delivered,5,Yes,Yes,17.6,Premium
+T10428,C5428,34,Male,Australia,Home & Kitchen,298.19,8,2385.52,20,1908.42,Bank Transfer,2024-08-02,13,Cancelled,2,Yes,No,26.3,Occasional
+T10429,C5429,36,Male,UK,Sports,348.85,2,697.7,10,627.93,PayPal,2024-06-03,1,In Transit,2,Yes,No,22.0,Occasional
+T10430,C5430,45,Male,India,Home & Kitchen,185.51,2,371.02,5,352.47,PayPal,2023-09-13,4,Returned,5,No,Yes,27.4,Premium
+T10431,C5431,43,Male,USA,Sports,370.56,5,1852.8,10,1667.52,PayPal,2023-09-13,12,Cancelled,4,Yes,Yes,27.3,Premium
+T10432,C5432,54,Male,India,Sports,334.98,6,2009.88,15,1708.4,Credit Card,2024-12-12,13,Delivered,3,No,No,29.4,Regular
+T10433,C5433,43,Male,Australia,Home & Kitchen,64.18,2,128.36,15,109.11,Bank Transfer,2023-12-13,13,Returned,1,No,Yes,22.5,Regular
+T10434,C5434,40,Male,India,Clothing,288.46,5,1442.3,15,1225.96,Bank Transfer,2023-03-29,11,Returned,2,No,No,17.6,Occasional
+T10435,C5435,26,Non-Binary,India,Books,132.09,7,924.63,20,739.7,Debit Card,2023-10-04,13,In Transit,5,Yes,Yes,9.2,Premium
+T10436,C5436,29,Female,India,Electronics,403.03,8,3224.24,0,3224.24,Debit Card,2024-04-21,4,Returned,1,No,Yes,22.6,Regular
+T10437,C5437,18,Male,Australia,Books,215.84,7,1510.88,10,1359.79,PayPal,2024-12-29,10,Delivered,2,Yes,No,12.3,Occasional
+T10438,C5438,18,Non-Binary,India,Electronics,497.37,8,3978.96,5,3780.01,Credit Card,2024-08-20,9,In Transit,3,No,No,12.1,Regular
+T10439,C5439,64,Non-Binary,UK,Electronics,50.79,9,457.11,15,388.54,Debit Card,2023-03-23,3,Returned,4,Yes,No,11.0,Regular
+T10440,C5440,51,Non-Binary,Australia,Sports,391.27,5,1956.35,10,1760.72,Debit Card,2024-08-17,2,In Transit,5,Yes,No,26.9,Regular
+T10441,C5441,49,Female,India,Electronics,338.48,5,1692.4,15,1438.54,PayPal,2024-04-14,9,Returned,3,Yes,No,26.7,Regular
+T10442,C5442,42,Male,Australia,Electronics,384.91,4,1539.64,15,1308.69,PayPal,2023-07-17,9,Cancelled,2,Yes,Yes,20.8,Regular
+T10443,C5443,57,Non-Binary,Germany,Home & Kitchen,157.23,9,1415.07,5,1344.32,Debit Card,2024-03-08,1,Cancelled,5,No,Yes,16.8,Premium
+T10444,C5444,62,Female,UK,Books,248.57,5,1242.85,20,994.28,Debit Card,2024-05-26,6,Delivered,1,No,No,21.8,Occasional
+T10445,C5445,18,Female,India,Home & Kitchen,399.27,2,798.54,0,798.54,Bank Transfer,2023-12-29,10,Cancelled,4,Yes,No,20.2,Regular
+T10446,C5446,33,Female,Germany,Electronics,120.11,8,960.88,20,768.7,Credit Card,2024-04-26,8,Cancelled,2,No,Yes,15.4,Regular
+T10447,C5447,56,Non-Binary,Germany,Sports,116.89,7,818.23,10,736.41,Bank Transfer,2023-01-07,3,Cancelled,4,Yes,Yes,14.5,Premium
+T10448,C5448,22,Male,Australia,Home & Kitchen,277.77,8,2222.16,20,1777.73,Debit Card,2024-05-17,11,Returned,5,Yes,No,14.6,Regular
+T10449,C5449,39,Non-Binary,Germany,Home & Kitchen,264.16,3,792.48,10,713.23,Bank Transfer,2024-01-08,9,Returned,3,No,No,19.7,Regular
+T10450,C5450,46,Non-Binary,UK,Clothing,144.72,4,578.88,10,520.99,Bank Transfer,2023-04-22,2,In Transit,4,Yes,Yes,21.2,Premium
+T10451,C5451,20,Male,UK,Electronics,152.55,5,762.75,0,762.75,Debit Card,2024-09-16,6,Returned,1,Yes,No,16.3,Occasional
+T10452,C5452,29,Male,USA,Sports,142.53,6,855.18,5,812.42,PayPal,2024-10-14,1,Cancelled,2,Yes,Yes,29.2,Regular
+T10453,C5453,43,Male,UK,Home & Kitchen,386.9,1,386.9,0,386.9,Debit Card,2024-03-05,13,Returned,1,Yes,Yes,7.1,Regular
+T10454,C5454,33,Female,Germany,Home & Kitchen,327.69,4,1310.76,20,1048.61,PayPal,2024-08-09,7,Delivered,4,Yes,No,13.7,Regular
+T10455,C5455,54,Male,UK,Sports,417.05,5,2085.25,10,1876.72,Debit Card,2023-05-18,3,In Transit,3,No,Yes,15.5,Regular
+T10456,C5456,39,Non-Binary,Australia,Electronics,487.86,7,3415.02,15,2902.77,Debit Card,2023-11-10,7,In Transit,3,No,Yes,5.4,Regular
+T10457,C5457,46,Male,USA,Clothing,239.71,5,1198.55,15,1018.77,Debit Card,2023-02-05,4,Returned,1,No,Yes,14.1,Regular
+T10458,C5458,31,Non-Binary,Germany,Home & Kitchen,38.01,1,38.01,10,34.21,Credit Card,2024-08-27,9,Cancelled,5,Yes,No,11.8,Regular
+T10459,C5459,45,Female,USA,Clothing,28.81,7,201.67,0,201.67,PayPal,2024-01-31,5,In Transit,5,Yes,Yes,17.7,Premium
+T10460,C5460,22,Non-Binary,Germany,Books,151.35,8,1210.8,5,1150.26,Credit Card,2024-04-08,3,Delivered,3,Yes,No,13.4,Regular
+T10461,C5461,64,Non-Binary,Australia,Electronics,466.61,7,3266.27,0,3266.27,Debit Card,2023-07-12,8,Delivered,1,Yes,Yes,23.2,Regular
+T10462,C5462,47,Male,USA,Books,263.99,4,1055.96,10,950.36,Bank Transfer,2024-01-11,6,In Transit,1,Yes,Yes,17.7,Regular
+T10463,C5463,63,Male,India,Books,139.53,8,1116.24,10,1004.62,Credit Card,2023-01-07,2,Cancelled,1,Yes,Yes,8.2,Regular
+T10464,C5464,22,Non-Binary,Germany,Books,202.59,5,1012.95,5,962.3,PayPal,2023-08-02,3,Cancelled,4,No,Yes,23.8,Premium
+T10465,C5465,29,Male,India,Electronics,301.3,9,2711.7,20,2169.36,Debit Card,2024-03-24,8,Returned,5,Yes,Yes,7.5,Premium
+T10466,C5466,33,Female,USA,Electronics,328.21,5,1641.05,20,1312.84,Credit Card,2023-03-25,10,Returned,5,No,No,26.0,Regular
+T10467,C5467,43,Female,India,Sports,81.19,1,81.19,5,77.13,Bank Transfer,2024-07-17,7,In Transit,4,Yes,No,28.3,Regular
+T10468,C5468,43,Male,India,Clothing,488.63,9,4397.67,20,3518.14,Credit Card,2023-12-26,10,Returned,2,No,Yes,13.1,Regular
+T10469,C5469,38,Female,USA,Clothing,274.66,5,1373.3,15,1167.3,PayPal,2024-11-03,6,Returned,4,Yes,No,28.2,Regular
+T10470,C5470,56,Male,Australia,Sports,72.17,6,433.02,20,346.42,Credit Card,2024-04-22,14,Returned,1,No,No,24.8,Occasional
+T10471,C5471,53,Non-Binary,India,Sports,447.35,4,1789.4,20,1431.52,Bank Transfer,2023-01-13,1,Delivered,4,No,Yes,28.1,Premium
+T10472,C5472,50,Non-Binary,India,Books,41.95,6,251.7,20,201.36,Bank Transfer,2023-01-17,9,Returned,1,Yes,No,21.7,Occasional
+T10473,C5473,47,Female,Australia,Sports,454.33,8,3634.64,15,3089.44,PayPal,2024-03-06,3,In Transit,3,Yes,No,10.9,Regular
+T10474,C5474,54,Male,India,Home & Kitchen,498.3,3,1494.9,20,1195.92,Bank Transfer,2024-12-28,14,Cancelled,1,No,No,27.4,Occasional
+T10475,C5475,40,Male,India,Clothing,351.71,5,1758.55,15,1494.77,Debit Card,2024-06-25,5,Returned,5,Yes,No,9.6,Regular
+T10476,C5476,27,Female,India,Sports,386.37,2,772.74,5,734.1,Bank Transfer,2023-12-18,7,Cancelled,4,Yes,Yes,10.3,Premium
+T10477,C5477,22,Non-Binary,UK,Home & Kitchen,171.96,2,343.92,0,343.92,Debit Card,2024-05-19,7,Returned,1,Yes,No,11.8,Occasional
+T10478,C5478,53,Female,Australia,Home & Kitchen,471.08,7,3297.56,5,3132.68,Credit Card,2023-08-27,3,In Transit,2,No,Yes,12.6,Regular
+T10479,C5479,51,Non-Binary,India,Home & Kitchen,267.21,6,1603.26,0,1603.26,Debit Card,2023-03-12,4,Delivered,3,Yes,Yes,17.9,Regular
+T10480,C5480,48,Male,Australia,Home & Kitchen,367.53,4,1470.12,5,1396.61,Debit Card,2024-12-19,10,In Transit,2,No,No,22.8,Occasional
+T10481,C5481,27,Non-Binary,Germany,Books,462.43,5,2312.15,0,2312.15,Credit Card,2023-09-13,7,Delivered,2,No,Yes,28.2,Regular
+T10482,C5482,36,Female,Germany,Home & Kitchen,487.71,1,487.71,0,487.71,Bank Transfer,2024-03-29,8,Returned,2,Yes,No,7.2,Occasional
+T10483,C5483,49,Male,India,Books,417.44,7,2922.08,10,2629.87,Debit Card,2023-07-18,2,Returned,3,No,Yes,28.9,Regular
+T10484,C5484,18,Female,Australia,Books,154.99,8,1239.92,0,1239.92,Bank Transfer,2024-11-12,9,Delivered,3,Yes,No,28.0,Regular
+T10485,C5485,22,Female,Australia,Home & Kitchen,483.44,9,4350.96,0,4350.96,Credit Card,2024-08-20,7,In Transit,3,Yes,No,6.3,Regular
+T10486,C5486,62,Non-Binary,Australia,Clothing,315.92,8,2527.36,10,2274.62,PayPal,2023-07-17,13,In Transit,3,No,Yes,14.0,Regular
+T10487,C5487,21,Female,UK,Home & Kitchen,465.67,5,2328.35,20,1862.68,Bank Transfer,2023-06-03,8,Delivered,2,No,No,25.3,Occasional
+T10488,C5488,33,Non-Binary,Germany,Home & Kitchen,339.67,3,1019.01,20,815.21,Bank Transfer,2023-05-13,6,Returned,5,No,No,20.3,Regular
+T10489,C5489,41,Male,Australia,Home & Kitchen,157.08,9,1413.72,10,1272.35,PayPal,2023-03-11,6,Delivered,5,No,No,24.5,Regular
+T10490,C5490,33,Non-Binary,Australia,Clothing,188.16,6,1128.96,15,959.62,PayPal,2024-04-04,9,Returned,3,No,No,23.0,Regular
+T10491,C5491,19,Male,UK,Electronics,277.48,5,1387.4,0,1387.4,Credit Card,2023-10-10,4,Delivered,4,Yes,Yes,17.4,Premium
+T10492,C5492,45,Non-Binary,UK,Electronics,396.06,3,1188.18,0,1188.18,Bank Transfer,2023-12-14,11,Returned,1,No,Yes,6.0,Regular
+T10493,C5493,49,Female,Australia,Books,162.4,6,974.4,10,876.96,Bank Transfer,2024-04-13,11,Delivered,4,Yes,Yes,19.6,Premium
+T10494,C5494,44,Non-Binary,USA,Books,291.97,3,875.91,10,788.32,Credit Card,2024-09-15,5,Cancelled,4,Yes,No,6.2,Regular
+T10495,C5495,37,Non-Binary,Australia,Clothing,176.08,6,1056.48,15,898.01,Bank Transfer,2024-04-24,9,Returned,4,No,Yes,20.1,Premium
+T10496,C5496,41,Male,Australia,Sports,408.81,4,1635.24,20,1308.19,Debit Card,2023-03-23,1,In Transit,5,No,No,25.0,Regular
+T10497,C5497,29,Female,UK,Electronics,236.03,2,472.06,5,448.46,Debit Card,2023-09-09,4,Delivered,1,No,No,19.6,Occasional
+T10498,C5498,52,Non-Binary,UK,Books,42.98,8,343.84,20,275.07,Debit Card,2024-02-28,7,In Transit,4,No,No,29.9,Regular
+T10499,C5499,50,Female,Australia,Electronics,87.2,4,348.8,0,348.8,Bank Transfer,2023-03-25,11,Delivered,3,No,Yes,16.4,Regular
+T10500,C5500,50,Non-Binary,Australia,Clothing,35.25,9,317.25,10,285.53,Debit Card,2024-02-04,9,In Transit,5,Yes,Yes,23.7,Premium
+T10501,C5501,60,Non-Binary,Australia,Clothing,252.15,7,1765.05,15,1500.29,Debit Card,2023-02-19,14,In Transit,3,Yes,Yes,21.7,Regular
+T10502,C5502,54,Female,UK,Sports,57.64,2,115.28,20,92.22,Credit Card,2023-07-01,13,Delivered,3,Yes,Yes,29.8,Regular
+T10503,C5503,29,Non-Binary,Australia,Sports,61.5,4,246.0,15,209.1,Credit Card,2023-05-04,11,Delivered,4,No,No,22.8,Regular
+T10504,C5504,20,Female,Australia,Clothing,470.82,5,2354.1,20,1883.28,PayPal,2024-11-29,12,In Transit,3,No,Yes,9.1,Regular
+T10505,C5505,18,Non-Binary,India,Books,436.96,3,1310.88,0,1310.88,PayPal,2023-05-11,13,In Transit,1,Yes,Yes,28.9,Regular
+T10506,C5506,50,Male,USA,Electronics,228.78,9,2059.02,5,1956.07,PayPal,2024-05-26,10,In Transit,3,No,Yes,21.7,Regular
+T10507,C5507,57,Female,Germany,Home & Kitchen,492.97,5,2464.85,15,2095.12,PayPal,2023-12-01,6,Returned,4,No,Yes,6.5,Premium
+T10508,C5508,27,Non-Binary,USA,Sports,5.09,2,10.18,15,8.65,Credit Card,2023-10-19,12,Returned,3,No,No,21.4,Regular
+T10509,C5509,60,Non-Binary,India,Home & Kitchen,308.92,3,926.76,5,880.42,Credit Card,2024-06-15,8,Cancelled,5,Yes,Yes,27.1,Premium
+T10510,C5510,61,Male,Germany,Books,310.13,9,2791.17,15,2372.49,Credit Card,2024-02-01,13,Returned,5,No,Yes,19.4,Premium
+T10511,C5511,46,Female,Australia,Sports,231.43,7,1620.01,15,1377.01,Debit Card,2024-04-18,9,Returned,5,Yes,Yes,13.9,Premium
+T10512,C5512,30,Non-Binary,India,Home & Kitchen,201.49,2,402.98,20,322.38,Debit Card,2024-04-21,10,Delivered,2,No,No,25.5,Occasional
+T10513,C5513,29,Male,Australia,Books,230.41,9,2073.69,20,1658.95,PayPal,2023-04-09,4,Cancelled,5,No,Yes,24.6,Premium
+T10514,C5514,48,Non-Binary,UK,Electronics,210.41,4,841.64,5,799.56,Debit Card,2023-06-08,1,Cancelled,5,Yes,Yes,18.6,Premium
+T10515,C5515,63,Female,India,Books,366.59,9,3299.31,0,3299.31,Bank Transfer,2023-11-13,14,Returned,2,No,Yes,8.9,Regular
+T10516,C5516,19,Non-Binary,UK,Sports,72.0,2,144.0,15,122.4,Credit Card,2023-10-26,8,Delivered,5,No,No,11.3,Regular
+T10517,C5517,52,Non-Binary,India,Clothing,102.83,4,411.32,0,411.32,PayPal,2024-11-18,2,Delivered,4,No,No,23.5,Regular
+T10518,C5518,40,Non-Binary,India,Electronics,94.36,5,471.8,5,448.21,PayPal,2023-02-08,11,Cancelled,5,Yes,Yes,25.2,Premium
+T10519,C5519,34,Non-Binary,UK,Home & Kitchen,134.92,2,269.84,5,256.35,Bank Transfer,2023-07-28,1,Delivered,5,No,Yes,12.0,Premium
+T10520,C5520,43,Male,Germany,Sports,265.0,1,265.0,20,212.0,Debit Card,2023-05-09,13,In Transit,2,No,No,14.2,Occasional
+T10521,C5521,25,Male,USA,Clothing,60.05,7,420.35,15,357.3,PayPal,2023-08-10,7,Returned,4,No,No,6.9,Regular
+T10522,C5522,46,Female,Australia,Books,434.74,1,434.74,10,391.27,Debit Card,2024-04-22,12,In Transit,3,No,No,22.8,Regular
+T10523,C5523,43,Male,India,Clothing,152.19,8,1217.52,5,1156.64,Debit Card,2023-08-11,10,Cancelled,1,No,No,5.1,Occasional
+T10524,C5524,27,Male,Australia,Sports,85.46,3,256.38,15,217.92,Bank Transfer,2023-12-26,9,Cancelled,4,Yes,No,6.2,Regular
+T10525,C5525,43,Female,UK,Sports,339.43,6,2036.58,0,2036.58,PayPal,2024-05-21,11,Delivered,3,Yes,Yes,5.1,Regular
+T10526,C5526,51,Male,Australia,Clothing,23.85,7,166.95,20,133.56,Debit Card,2023-04-01,12,Delivered,4,No,Yes,21.1,Premium
+T10527,C5527,58,Male,UK,Books,311.88,1,311.88,0,311.88,Debit Card,2023-01-13,12,Cancelled,3,No,Yes,15.4,Regular
+T10528,C5528,24,Female,Australia,Clothing,350.61,6,2103.66,5,1998.48,Bank Transfer,2024-03-22,9,Cancelled,3,Yes,Yes,12.4,Regular
+T10529,C5529,21,Female,USA,Sports,111.38,7,779.66,5,740.68,Bank Transfer,2023-11-17,3,In Transit,4,No,No,27.8,Regular
+T10530,C5530,62,Female,USA,Sports,25.77,6,154.62,0,154.62,Debit Card,2023-12-17,6,In Transit,2,No,No,9.8,Occasional
+T10531,C5531,28,Non-Binary,USA,Home & Kitchen,185.0,4,740.0,5,703.0,Bank Transfer,2024-11-24,7,Delivered,4,No,No,14.7,Regular
+T10532,C5532,46,Non-Binary,USA,Home & Kitchen,53.8,1,53.8,15,45.73,Debit Card,2023-09-01,14,In Transit,4,No,No,28.5,Regular
+T10533,C5533,53,Female,USA,Electronics,62.66,9,563.94,5,535.74,PayPal,2024-11-01,10,Delivered,3,No,No,15.7,Regular
+T10534,C5534,42,Female,USA,Sports,130.86,4,523.44,20,418.75,Credit Card,2024-08-18,9,Delivered,1,No,Yes,18.9,Regular
+T10535,C5535,38,Female,UK,Home & Kitchen,151.26,7,1058.82,15,900.0,Bank Transfer,2023-05-24,2,Returned,3,No,Yes,7.0,Regular
+T10536,C5536,53,Non-Binary,India,Clothing,267.34,7,1871.38,10,1684.24,Credit Card,2024-02-21,8,Delivered,5,No,Yes,24.8,Premium
+T10537,C5537,27,Non-Binary,Australia,Books,340.8,2,681.6,5,647.52,Debit Card,2023-08-21,14,In Transit,4,Yes,Yes,15.6,Premium
+T10538,C5538,54,Male,USA,Clothing,298.42,1,298.42,5,283.5,Debit Card,2023-03-18,7,Cancelled,4,Yes,Yes,25.0,Premium
+T10539,C5539,26,Male,UK,Books,78.44,8,627.52,20,502.02,Debit Card,2024-09-08,4,Cancelled,2,No,No,11.3,Occasional
+T10540,C5540,41,Female,UK,Home & Kitchen,90.18,8,721.44,20,577.15,Credit Card,2024-08-06,2,In Transit,3,No,No,15.6,Regular
+T10541,C5541,52,Non-Binary,UK,Electronics,439.99,7,3079.93,0,3079.93,Debit Card,2023-04-09,8,Cancelled,2,No,No,24.7,Occasional
+T10542,C5542,52,Non-Binary,India,Clothing,281.38,8,2251.04,0,2251.04,Bank Transfer,2024-09-30,11,Delivered,4,No,No,29.3,Regular
+T10543,C5543,53,Non-Binary,Australia,Clothing,435.62,3,1306.86,0,1306.86,PayPal,2023-12-20,5,Cancelled,3,Yes,No,6.5,Regular
+T10544,C5544,35,Female,India,Clothing,188.92,2,377.84,20,302.27,PayPal,2024-03-28,6,In Transit,3,Yes,Yes,25.3,Regular
+T10545,C5545,56,Male,Germany,Books,309.13,7,2163.91,0,2163.91,Bank Transfer,2023-12-27,14,Cancelled,5,Yes,Yes,12.5,Premium
+T10546,C5546,49,Female,UK,Home & Kitchen,264.21,8,2113.68,0,2113.68,PayPal,2024-01-13,11,Delivered,5,Yes,Yes,18.8,Premium
+T10547,C5547,41,Male,Germany,Clothing,162.97,1,162.97,10,146.67,Credit Card,2024-09-30,7,Delivered,1,No,No,12.3,Occasional
+T10548,C5548,40,Male,USA,Clothing,237.61,9,2138.49,0,2138.49,Debit Card,2023-11-24,10,In Transit,5,No,No,20.3,Regular
+T10549,C5549,49,Female,USA,Electronics,253.73,4,1014.92,5,964.17,Debit Card,2024-09-15,1,In Transit,3,No,No,13.8,Regular
+T10550,C5550,54,Male,India,Electronics,104.38,4,417.52,20,334.02,Debit Card,2024-07-08,8,In Transit,5,Yes,No,13.3,Regular
+T10551,C5551,29,Male,Australia,Home & Kitchen,160.93,3,482.79,15,410.37,Credit Card,2024-07-14,4,Returned,1,No,Yes,5.9,Regular
+T10552,C5552,30,Non-Binary,Germany,Home & Kitchen,396.75,6,2380.5,10,2142.45,Credit Card,2023-02-21,13,Returned,4,No,No,8.7,Regular
+T10553,C5553,40,Male,Australia,Sports,458.32,1,458.32,20,366.66,Credit Card,2023-07-31,9,Delivered,5,Yes,Yes,27.9,Premium
+T10554,C5554,42,Female,India,Electronics,183.1,6,1098.6,20,878.88,Bank Transfer,2023-12-02,1,Returned,3,Yes,No,30.0,Regular
+T10555,C5555,52,Female,USA,Sports,156.95,2,313.9,5,298.2,Credit Card,2024-09-01,11,Returned,4,Yes,Yes,24.5,Premium
+T10556,C5556,58,Male,Australia,Books,101.62,9,914.58,0,914.58,PayPal,2024-04-01,2,Cancelled,3,Yes,No,12.2,Regular
+T10557,C5557,47,Non-Binary,Australia,Sports,340.85,2,681.7,5,647.62,Bank Transfer,2024-06-25,14,Returned,4,Yes,No,15.1,Regular
+T10558,C5558,34,Non-Binary,USA,Clothing,164.93,7,1154.51,0,1154.51,Bank Transfer,2024-07-07,6,Cancelled,3,No,Yes,23.5,Regular
+T10559,C5559,37,Male,Germany,Sports,493.94,1,493.94,0,493.94,Bank Transfer,2023-12-10,11,In Transit,5,No,Yes,29.2,Premium
+T10560,C5560,42,Male,USA,Home & Kitchen,166.21,7,1163.47,20,930.78,Credit Card,2024-04-24,10,Cancelled,5,Yes,No,16.4,Regular
+T10561,C5561,39,Female,Australia,Books,200.1,5,1000.5,0,1000.5,Bank Transfer,2023-11-14,11,Cancelled,1,No,Yes,25.7,Regular
+T10562,C5562,30,Male,Germany,Clothing,303.65,8,2429.2,10,2186.28,Credit Card,2023-11-05,14,In Transit,4,No,No,29.4,Regular
+T10563,C5563,36,Non-Binary,Germany,Sports,401.83,4,1607.32,10,1446.59,Credit Card,2023-11-20,1,In Transit,1,No,No,26.8,Occasional
+T10564,C5564,53,Male,USA,Books,237.41,7,1661.87,10,1495.68,Bank Transfer,2023-01-19,4,Delivered,2,No,Yes,10.7,Regular
+T10565,C5565,29,Female,Australia,Books,214.21,6,1285.26,20,1028.21,Debit Card,2024-10-31,8,Delivered,5,Yes,No,5.2,Regular
+T10566,C5566,58,Female,India,Clothing,497.84,5,2489.2,5,2364.74,Debit Card,2024-08-26,10,Delivered,4,No,No,17.3,Regular
+T10567,C5567,36,Female,Australia,Sports,10.19,4,40.76,15,34.65,Bank Transfer,2024-08-23,5,Delivered,1,No,Yes,18.3,Regular
+T10568,C5568,29,Female,UK,Books,448.06,7,3136.42,0,3136.42,Debit Card,2023-06-14,13,Cancelled,1,No,No,10.0,Occasional
+T10569,C5569,26,Female,India,Books,78.82,5,394.1,15,334.98,PayPal,2024-08-07,9,Cancelled,2,Yes,No,12.1,Occasional
+T10570,C5570,24,Male,Germany,Electronics,394.03,5,1970.15,5,1871.64,PayPal,2024-10-26,11,Delivered,1,No,No,24.1,Occasional
+T10571,C5571,45,Male,India,Books,310.88,1,310.88,5,295.34,Credit Card,2023-02-25,11,Returned,3,Yes,No,16.8,Regular
+T10572,C5572,31,Male,Germany,Electronics,174.21,2,348.42,20,278.74,Debit Card,2024-08-03,6,Delivered,5,Yes,Yes,12.9,Premium
+T10573,C5573,48,Male,Germany,Sports,437.57,5,2187.85,10,1969.06,PayPal,2023-10-18,1,Returned,1,Yes,Yes,20.6,Regular
+T10574,C5574,36,Female,India,Sports,11.39,3,34.17,10,30.75,Bank Transfer,2024-10-05,6,In Transit,1,Yes,Yes,21.3,Regular
+T10575,C5575,64,Non-Binary,Germany,Sports,117.21,2,234.42,5,222.7,Debit Card,2024-02-17,6,Cancelled,2,No,No,24.2,Occasional
+T10576,C5576,33,Male,Germany,Home & Kitchen,285.61,4,1142.44,20,913.95,PayPal,2023-06-09,13,Cancelled,3,Yes,Yes,8.9,Regular
+T10577,C5577,22,Non-Binary,UK,Sports,179.01,4,716.04,20,572.83,PayPal,2023-12-03,6,Returned,1,Yes,Yes,23.5,Regular
+T10578,C5578,52,Male,Australia,Books,307.14,4,1228.56,0,1228.56,Bank Transfer,2023-03-15,8,Delivered,5,Yes,Yes,20.0,Premium
+T10579,C5579,29,Male,Australia,Clothing,16.93,4,67.72,10,60.95,Credit Card,2023-09-25,6,Cancelled,5,Yes,No,6.4,Regular
+T10580,C5580,42,Non-Binary,UK,Electronics,62.65,3,187.95,5,178.55,Bank Transfer,2023-01-02,5,Returned,1,Yes,Yes,24.4,Regular
+T10581,C5581,38,Female,India,Home & Kitchen,67.91,7,475.37,15,404.06,Credit Card,2023-08-24,11,In Transit,3,No,Yes,14.6,Regular
+T10582,C5582,53,Male,USA,Sports,98.7,9,888.3,10,799.47,PayPal,2023-08-10,2,In Transit,5,Yes,No,13.3,Regular
+T10583,C5583,40,Male,USA,Sports,232.37,5,1161.85,0,1161.85,Credit Card,2023-11-07,4,Cancelled,5,No,No,16.2,Regular
+T10584,C5584,33,Male,USA,Clothing,377.3,4,1509.2,20,1207.36,PayPal,2024-03-22,14,Delivered,3,No,No,13.7,Regular
+T10585,C5585,56,Non-Binary,UK,Clothing,453.24,2,906.48,5,861.16,PayPal,2023-07-27,10,Returned,3,Yes,No,13.5,Regular
+T10586,C5586,62,Female,UK,Home & Kitchen,418.51,2,837.02,10,753.32,Debit Card,2023-01-01,5,Cancelled,1,No,No,25.2,Occasional
+T10587,C5587,59,Non-Binary,Germany,Electronics,102.46,5,512.3,15,435.45,Credit Card,2023-10-26,10,In Transit,4,No,No,8.1,Regular
+T10588,C5588,56,Non-Binary,USA,Sports,223.37,7,1563.59,0,1563.59,Credit Card,2023-05-05,4,Delivered,2,No,Yes,29.3,Regular
+T10589,C5589,31,Female,India,Home & Kitchen,103.71,9,933.39,0,933.39,Credit Card,2024-01-11,2,Returned,4,Yes,Yes,18.9,Premium
+T10590,C5590,48,Non-Binary,India,Books,135.91,7,951.37,10,856.23,Bank Transfer,2024-02-06,7,Cancelled,4,Yes,No,9.6,Regular
+T10591,C5591,22,Female,USA,Books,254.26,5,1271.3,15,1080.6,Debit Card,2023-09-06,10,Returned,5,Yes,No,8.3,Regular
+T10592,C5592,52,Male,USA,Home & Kitchen,38.71,6,232.26,0,232.26,Debit Card,2024-10-22,10,Delivered,3,Yes,Yes,19.8,Regular
+T10593,C5593,40,Female,USA,Sports,113.0,3,339.0,5,322.05,Debit Card,2023-05-05,2,Delivered,5,Yes,No,20.8,Regular
+T10594,C5594,46,Male,UK,Home & Kitchen,468.01,5,2340.05,0,2340.05,Bank Transfer,2023-04-29,1,In Transit,2,Yes,No,6.3,Occasional
+T10595,C5595,60,Non-Binary,UK,Sports,235.73,8,1885.84,15,1602.96,Credit Card,2023-07-03,14,Delivered,1,Yes,Yes,11.1,Regular
+T10596,C5596,28,Non-Binary,UK,Clothing,225.47,1,225.47,20,180.38,Credit Card,2024-07-31,5,Cancelled,2,No,No,24.9,Occasional
+T10597,C5597,35,Male,Australia,Home & Kitchen,12.21,1,12.21,20,9.77,Credit Card,2024-04-24,12,Returned,5,No,No,6.2,Regular
+T10598,C5598,64,Non-Binary,India,Sports,127.46,7,892.22,10,803.0,Debit Card,2024-04-26,13,Delivered,5,Yes,Yes,26.4,Premium
+T10599,C5599,29,Female,India,Home & Kitchen,433.81,5,2169.05,15,1843.69,Debit Card,2023-10-25,1,Delivered,5,No,Yes,21.5,Premium
+T10600,C5600,26,Male,Germany,Home & Kitchen,86.49,5,432.45,0,432.45,PayPal,2024-11-13,1,Cancelled,5,Yes,Yes,15.9,Premium
+T10601,C5601,27,Non-Binary,UK,Sports,210.49,1,210.49,0,210.49,Bank Transfer,2023-01-25,1,Returned,4,Yes,Yes,13.7,Premium
+T10602,C5602,61,Male,Australia,Sports,12.09,9,108.81,20,87.05,Bank Transfer,2023-11-18,6,Returned,1,Yes,Yes,5.5,Regular
+T10603,C5603,34,Female,Australia,Electronics,241.78,1,241.78,20,193.42,Debit Card,2023-03-10,9,In Transit,4,No,No,25.6,Regular
+T10604,C5604,55,Female,India,Home & Kitchen,15.41,5,77.05,5,73.2,PayPal,2024-08-15,10,In Transit,5,Yes,No,8.6,Regular
+T10605,C5605,24,Non-Binary,UK,Books,410.71,9,3696.39,20,2957.11,Credit Card,2023-11-21,13,Returned,3,Yes,No,12.7,Regular
+T10606,C5606,63,Female,Germany,Home & Kitchen,413.3,4,1653.2,5,1570.54,Debit Card,2024-06-23,11,Cancelled,4,Yes,No,19.2,Regular
+T10607,C5607,30,Male,UK,Home & Kitchen,394.93,8,3159.44,0,3159.44,Bank Transfer,2023-11-10,12,Cancelled,5,Yes,No,11.1,Regular
+T10608,C5608,57,Female,USA,Sports,145.27,6,871.62,5,828.04,Bank Transfer,2023-07-12,1,In Transit,5,No,Yes,17.4,Premium
+T10609,C5609,59,Male,UK,Home & Kitchen,419.43,3,1258.29,5,1195.38,Bank Transfer,2023-09-24,5,Delivered,1,Yes,No,25.2,Occasional
+T10610,C5610,26,Male,USA,Home & Kitchen,273.78,4,1095.12,10,985.61,Credit Card,2023-03-10,9,Cancelled,2,No,No,16.8,Occasional
+T10611,C5611,44,Female,USA,Books,190.04,2,380.08,20,304.06,Bank Transfer,2023-05-02,14,Delivered,4,No,No,28.7,Regular
+T10612,C5612,19,Non-Binary,Germany,Sports,314.54,1,314.54,5,298.81,Credit Card,2024-07-21,9,Cancelled,4,Yes,No,26.2,Regular
+T10613,C5613,22,Female,India,Home & Kitchen,11.11,8,88.88,0,88.88,Credit Card,2024-09-10,1,Returned,4,Yes,No,13.3,Regular
+T10614,C5614,46,Male,UK,Clothing,75.77,1,75.77,15,64.4,Credit Card,2023-10-16,8,In Transit,5,No,Yes,15.0,Premium
+T10615,C5615,54,Male,USA,Electronics,372.44,1,372.44,5,353.82,Debit Card,2024-05-13,1,Delivered,1,No,No,15.6,Occasional
+T10616,C5616,55,Female,UK,Books,125.86,4,503.44,20,402.75,Credit Card,2023-09-27,8,Delivered,5,No,No,20.7,Regular
+T10617,C5617,36,Non-Binary,India,Home & Kitchen,301.01,6,1806.06,10,1625.45,PayPal,2024-04-14,1,Returned,5,No,No,12.2,Regular
+T10618,C5618,25,Non-Binary,India,Clothing,195.63,9,1760.67,0,1760.67,Bank Transfer,2024-03-23,12,Cancelled,3,Yes,No,29.2,Regular
+T10619,C5619,62,Male,Australia,Home & Kitchen,428.13,1,428.13,10,385.32,Debit Card,2023-01-31,5,Delivered,1,No,No,20.2,Occasional
+T10620,C5620,18,Male,India,Home & Kitchen,476.45,7,3335.15,15,2834.88,Bank Transfer,2023-09-26,8,Cancelled,4,No,No,15.0,Regular
+T10621,C5621,39,Non-Binary,Germany,Sports,442.36,5,2211.8,5,2101.21,Credit Card,2024-12-16,6,Returned,2,No,Yes,21.1,Regular
+T10622,C5622,34,Female,USA,Sports,138.96,8,1111.68,5,1056.1,Debit Card,2023-06-30,9,In Transit,4,No,No,14.9,Regular
+T10623,C5623,24,Male,Australia,Sports,101.11,7,707.77,20,566.22,PayPal,2024-08-04,1,Delivered,5,Yes,Yes,25.4,Premium
+T10624,C5624,42,Male,Germany,Clothing,239.85,4,959.4,5,911.43,Credit Card,2023-07-16,9,Cancelled,1,Yes,Yes,19.2,Regular
+T10625,C5625,62,Non-Binary,UK,Home & Kitchen,8.63,4,34.52,0,34.52,Bank Transfer,2023-06-07,1,Delivered,1,Yes,No,6.0,Occasional
+T10626,C5626,21,Female,USA,Electronics,17.78,6,106.68,15,90.68,PayPal,2024-01-13,10,Cancelled,1,No,No,9.4,Occasional
+T10627,C5627,53,Non-Binary,India,Books,278.88,6,1673.28,10,1505.95,Credit Card,2024-03-17,10,Cancelled,3,No,No,26.6,Regular
+T10628,C5628,23,Female,USA,Sports,262.62,9,2363.58,15,2009.04,PayPal,2023-04-09,3,Cancelled,4,Yes,Yes,19.1,Premium
+T10629,C5629,48,Female,UK,Sports,497.32,5,2486.6,5,2362.27,Credit Card,2024-07-08,1,Returned,3,Yes,No,28.8,Regular
+T10630,C5630,36,Female,Australia,Home & Kitchen,104.91,8,839.28,10,755.35,Debit Card,2023-12-18,3,In Transit,2,No,No,6.8,Occasional
+T10631,C5631,61,Male,Australia,Home & Kitchen,132.76,5,663.8,20,531.04,Credit Card,2023-12-09,12,Delivered,5,Yes,No,12.4,Regular
+T10632,C5632,56,Non-Binary,Australia,Clothing,61.2,2,122.4,15,104.04,Debit Card,2023-12-10,11,In Transit,3,No,Yes,9.8,Regular
+T10633,C5633,44,Non-Binary,India,Clothing,459.18,6,2755.08,10,2479.57,Credit Card,2023-12-15,13,Cancelled,3,No,Yes,18.8,Regular
+T10634,C5634,27,Female,Germany,Sports,390.02,9,3510.18,10,3159.16,Credit Card,2023-06-21,2,Cancelled,5,No,No,14.6,Regular
+T10635,C5635,43,Male,Germany,Home & Kitchen,412.06,3,1236.18,10,1112.56,Bank Transfer,2023-07-29,2,In Transit,1,No,Yes,8.9,Regular
+T10636,C5636,36,Male,USA,Electronics,451.87,1,451.87,0,451.87,PayPal,2024-03-01,9,In Transit,5,No,No,21.1,Regular
+T10637,C5637,56,Non-Binary,India,Books,264.83,1,264.83,15,225.11,PayPal,2024-06-01,8,Delivered,4,No,Yes,18.4,Premium
+T10638,C5638,20,Male,Australia,Home & Kitchen,228.34,3,685.02,10,616.52,PayPal,2023-05-28,1,Cancelled,5,Yes,No,11.9,Regular
+T10639,C5639,62,Male,Australia,Home & Kitchen,168.54,5,842.7,15,716.3,Credit Card,2023-11-16,12,In Transit,1,Yes,Yes,17.0,Regular
+T10640,C5640,30,Female,UK,Clothing,296.66,3,889.98,10,800.98,Credit Card,2023-06-29,14,Returned,5,Yes,No,23.6,Regular
+T10641,C5641,45,Male,UK,Books,229.87,9,2068.83,20,1655.06,Credit Card,2024-06-30,4,Cancelled,3,No,No,10.1,Regular
+T10642,C5642,37,Female,Australia,Sports,228.52,8,1828.16,20,1462.53,Debit Card,2024-07-20,13,Cancelled,2,Yes,Yes,12.3,Regular
+T10643,C5643,45,Non-Binary,Australia,Home & Kitchen,468.78,3,1406.34,20,1125.07,Debit Card,2023-04-06,1,Delivered,3,No,Yes,13.7,Regular
+T10644,C5644,25,Male,India,Sports,492.1,9,4428.9,5,4207.46,Bank Transfer,2023-12-19,1,Returned,2,No,Yes,23.7,Regular
+T10645,C5645,58,Non-Binary,Germany,Home & Kitchen,399.26,6,2395.56,10,2156.0,Credit Card,2023-04-14,12,Delivered,5,No,Yes,26.2,Premium
+T10646,C5646,56,Non-Binary,UK,Sports,379.6,7,2657.2,5,2524.34,PayPal,2024-08-18,12,Returned,4,No,Yes,14.4,Premium
+T10647,C5647,18,Male,Germany,Books,341.88,4,1367.52,15,1162.39,PayPal,2023-05-15,4,Delivered,5,Yes,No,12.4,Regular
+T10648,C5648,20,Male,India,Clothing,87.21,4,348.84,5,331.4,Bank Transfer,2023-06-07,2,Returned,1,Yes,No,27.2,Occasional
+T10649,C5649,30,Non-Binary,Australia,Books,34.26,2,68.52,15,58.24,PayPal,2023-01-14,3,Returned,5,Yes,Yes,30.0,Premium
+T10650,C5650,45,Male,Germany,Electronics,346.91,5,1734.55,15,1474.37,Bank Transfer,2024-08-07,11,Returned,2,No,No,21.8,Occasional
+T10651,C5651,42,Female,Australia,Clothing,365.75,8,2926.0,15,2487.1,Credit Card,2023-06-01,9,In Transit,3,Yes,No,29.7,Regular
+T10652,C5652,50,Female,Australia,Books,28.25,7,197.75,5,187.86,PayPal,2023-09-27,2,Cancelled,4,Yes,Yes,21.5,Premium
+T10653,C5653,55,Male,USA,Electronics,464.39,7,3250.73,10,2925.66,Credit Card,2024-05-05,4,Returned,5,Yes,No,23.3,Regular
+T10654,C5654,23,Non-Binary,Germany,Home & Kitchen,50.11,6,300.66,5,285.63,Debit Card,2023-01-06,1,In Transit,5,No,No,14.7,Regular
+T10655,C5655,61,Male,Germany,Home & Kitchen,146.52,3,439.56,10,395.6,PayPal,2023-11-02,2,In Transit,3,Yes,Yes,15.8,Regular
+T10656,C5656,62,Male,Australia,Sports,337.83,5,1689.15,10,1520.24,Debit Card,2024-08-17,5,Delivered,4,No,Yes,8.6,Premium
+T10657,C5657,49,Non-Binary,India,Clothing,89.09,1,89.09,15,75.73,PayPal,2024-03-30,14,Cancelled,5,Yes,No,25.6,Regular
+T10658,C5658,62,Non-Binary,USA,Home & Kitchen,32.43,7,227.01,5,215.66,Credit Card,2024-05-03,10,Cancelled,5,No,Yes,28.3,Premium
+T10659,C5659,64,Female,Australia,Clothing,168.92,9,1520.28,10,1368.25,Bank Transfer,2024-04-28,1,Delivered,2,Yes,No,20.6,Occasional
+T10660,C5660,38,Non-Binary,UK,Home & Kitchen,384.16,1,384.16,20,307.33,Credit Card,2023-02-11,11,Cancelled,2,Yes,Yes,13.6,Regular
+T10661,C5661,33,Female,UK,Sports,209.77,2,419.54,10,377.59,Credit Card,2024-10-25,7,Delivered,1,Yes,Yes,8.9,Regular
+T10662,C5662,38,Non-Binary,USA,Books,328.22,3,984.66,20,787.73,Credit Card,2024-12-19,4,In Transit,3,No,Yes,11.6,Regular
+T10663,C5663,28,Male,India,Sports,291.91,3,875.73,5,831.94,PayPal,2023-11-27,6,In Transit,4,Yes,Yes,11.4,Premium
+T10664,C5664,54,Female,Australia,Electronics,16.0,8,128.0,5,121.6,Bank Transfer,2023-01-10,8,Returned,5,Yes,No,20.3,Regular
+T10665,C5665,53,Female,Germany,Home & Kitchen,494.33,7,3460.31,5,3287.29,Debit Card,2023-02-09,13,Delivered,5,No,Yes,28.6,Premium
+T10666,C5666,52,Female,USA,Electronics,25.51,6,153.06,10,137.75,Credit Card,2024-11-18,6,In Transit,1,No,Yes,6.2,Regular
+T10667,C5667,36,Male,India,Electronics,484.06,4,1936.24,0,1936.24,PayPal,2024-11-05,14,In Transit,5,No,No,5.0,Regular
+T10668,C5668,37,Male,Germany,Clothing,277.18,9,2494.62,10,2245.16,Debit Card,2024-11-06,2,Delivered,3,No,No,20.0,Regular
+T10669,C5669,35,Male,UK,Home & Kitchen,481.76,1,481.76,10,433.58,Credit Card,2023-10-23,1,In Transit,1,Yes,No,12.1,Occasional
+T10670,C5670,64,Male,UK,Electronics,61.8,2,123.6,15,105.06,Debit Card,2024-05-02,8,Cancelled,3,Yes,No,27.0,Regular
+T10671,C5671,58,Male,Germany,Books,247.75,4,991.0,15,842.35,Credit Card,2023-09-13,8,In Transit,1,No,Yes,13.2,Regular
+T10672,C5672,31,Female,USA,Electronics,88.9,3,266.7,10,240.03,Debit Card,2024-09-20,9,Delivered,5,Yes,No,12.2,Regular
+T10673,C5673,32,Male,UK,Books,30.23,1,30.23,20,24.18,Debit Card,2024-08-19,6,Cancelled,1,No,Yes,11.7,Regular
+T10674,C5674,48,Female,Australia,Clothing,310.68,5,1553.4,15,1320.39,Bank Transfer,2023-12-08,12,Cancelled,2,Yes,No,8.6,Occasional
+T10675,C5675,18,Male,Germany,Electronics,107.85,7,754.95,10,679.46,Bank Transfer,2023-12-15,1,In Transit,4,No,Yes,19.5,Premium
+T10676,C5676,20,Non-Binary,Germany,Sports,295.91,2,591.82,0,591.82,Credit Card,2024-01-18,14,Returned,5,Yes,No,9.2,Regular
+T10677,C5677,33,Female,UK,Clothing,60.62,5,303.1,20,242.48,PayPal,2024-07-16,9,Cancelled,4,No,Yes,15.6,Premium
+T10678,C5678,40,Non-Binary,USA,Books,169.33,6,1015.98,5,965.18,Bank Transfer,2023-06-09,12,Delivered,5,No,Yes,16.5,Premium
+T10679,C5679,28,Female,Australia,Clothing,391.91,7,2743.37,10,2469.03,Debit Card,2024-07-14,13,Returned,4,Yes,No,5.5,Regular
+T10680,C5680,29,Non-Binary,USA,Electronics,221.34,1,221.34,10,199.21,Bank Transfer,2024-05-19,14,Returned,2,Yes,Yes,5.4,Regular
+T10681,C5681,27,Male,India,Home & Kitchen,315.73,7,2210.11,20,1768.09,Bank Transfer,2023-12-03,3,Cancelled,4,Yes,Yes,18.0,Premium
+T10682,C5682,49,Male,India,Home & Kitchen,325.49,4,1301.96,15,1106.67,Credit Card,2024-05-29,11,In Transit,1,No,Yes,22.4,Regular
+T10683,C5683,33,Male,UK,Books,422.66,8,3381.28,15,2874.09,Bank Transfer,2024-10-05,6,Returned,4,Yes,Yes,28.6,Premium
+T10684,C5684,25,Female,UK,Books,165.84,4,663.36,15,563.86,Bank Transfer,2023-01-05,10,In Transit,5,No,No,9.5,Regular
+T10685,C5685,55,Non-Binary,UK,Home & Kitchen,345.21,6,2071.26,5,1967.7,Debit Card,2023-09-25,13,Cancelled,3,Yes,Yes,7.6,Regular
+T10686,C5686,29,Male,India,Books,481.0,9,4329.0,20,3463.2,Bank Transfer,2024-12-08,10,Delivered,4,Yes,Yes,6.3,Premium
+T10687,C5687,41,Non-Binary,USA,Clothing,366.47,5,1832.35,20,1465.88,Debit Card,2023-12-13,11,Returned,4,No,No,15.9,Regular
+T10688,C5688,45,Non-Binary,USA,Sports,247.49,4,989.96,15,841.47,Bank Transfer,2024-04-27,12,Delivered,4,No,No,20.6,Regular
+T10689,C5689,25,Male,UK,Sports,317.21,8,2537.68,15,2157.03,Bank Transfer,2023-10-21,14,In Transit,5,Yes,No,26.0,Regular
+T10690,C5690,45,Male,Australia,Clothing,371.14,9,3340.26,0,3340.26,PayPal,2023-09-18,9,In Transit,4,No,Yes,22.1,Premium
+T10691,C5691,53,Non-Binary,USA,Sports,308.08,4,1232.32,0,1232.32,Bank Transfer,2024-02-01,11,Delivered,5,No,Yes,10.2,Premium
+T10692,C5692,43,Male,India,Electronics,13.25,3,39.75,10,35.78,Debit Card,2023-10-08,13,Cancelled,5,Yes,No,16.5,Regular
+T10693,C5693,25,Male,Germany,Clothing,101.41,8,811.28,10,730.15,Debit Card,2023-01-24,3,Cancelled,3,No,Yes,27.8,Regular
+T10694,C5694,45,Male,Germany,Books,406.18,5,2030.9,20,1624.72,Credit Card,2023-01-03,5,Returned,1,Yes,No,13.2,Occasional
+T10695,C5695,45,Female,Germany,Clothing,139.96,2,279.92,20,223.94,Credit Card,2024-02-12,13,Returned,5,Yes,Yes,17.5,Premium
+T10696,C5696,54,Non-Binary,Australia,Home & Kitchen,367.12,9,3304.08,5,3138.88,PayPal,2023-01-01,14,Cancelled,2,No,No,29.0,Occasional
+T10697,C5697,58,Non-Binary,UK,Books,189.2,3,567.6,5,539.22,Debit Card,2024-08-31,5,Cancelled,4,Yes,Yes,23.4,Premium
+T10698,C5698,53,Female,India,Home & Kitchen,263.33,2,526.66,0,526.66,Debit Card,2024-05-08,10,Delivered,2,No,No,23.7,Occasional
+T10699,C5699,44,Non-Binary,Australia,Books,38.65,1,38.65,10,34.78,Debit Card,2024-10-30,7,In Transit,4,Yes,Yes,11.3,Premium
+T10700,C5700,34,Male,India,Sports,94.71,8,757.68,0,757.68,PayPal,2023-09-08,4,In Transit,3,No,No,15.4,Regular
+T10701,C5701,26,Non-Binary,India,Clothing,478.81,3,1436.43,0,1436.43,Debit Card,2024-07-26,11,Returned,5,No,Yes,7.1,Premium
+T10702,C5702,50,Male,UK,Electronics,445.62,7,3119.34,10,2807.41,Credit Card,2023-02-23,4,Cancelled,1,No,Yes,20.2,Regular
+T10703,C5703,37,Female,Germany,Books,327.88,1,327.88,5,311.49,PayPal,2024-11-15,7,Delivered,5,No,Yes,7.6,Premium
+T10704,C5704,30,Male,UK,Books,232.52,1,232.52,10,209.27,Credit Card,2023-02-22,9,Returned,4,No,No,25.9,Regular
+T10705,C5705,45,Non-Binary,Australia,Home & Kitchen,339.5,9,3055.5,15,2597.17,Credit Card,2023-02-07,11,Delivered,1,Yes,Yes,25.4,Regular
+T10706,C5706,46,Non-Binary,Australia,Sports,311.21,8,2489.68,15,2116.23,PayPal,2023-06-29,4,Cancelled,5,Yes,Yes,18.3,Premium
+T10707,C5707,30,Non-Binary,Australia,Home & Kitchen,286.43,3,859.29,15,730.4,Bank Transfer,2024-10-06,4,Cancelled,1,No,Yes,8.5,Regular
+T10708,C5708,63,Female,UK,Home & Kitchen,34.29,6,205.74,20,164.59,Bank Transfer,2024-04-01,6,Cancelled,4,Yes,No,5.6,Regular
+T10709,C5709,52,Female,India,Sports,318.24,3,954.72,5,906.98,Credit Card,2023-02-10,6,In Transit,3,No,Yes,24.9,Regular
+T10710,C5710,23,Non-Binary,India,Electronics,385.62,4,1542.48,5,1465.36,Bank Transfer,2023-07-11,7,Cancelled,3,No,No,20.0,Regular
+T10711,C5711,35,Male,USA,Home & Kitchen,497.07,1,497.07,20,397.66,Debit Card,2023-08-13,1,Returned,5,Yes,Yes,22.8,Premium
+T10712,C5712,22,Female,Australia,Home & Kitchen,10.48,5,52.4,0,52.4,PayPal,2024-08-23,13,In Transit,2,Yes,No,12.6,Occasional
+T10713,C5713,64,Non-Binary,India,Books,366.44,1,366.44,15,311.47,Credit Card,2023-12-23,11,Delivered,4,No,No,17.7,Regular
+T10714,C5714,42,Non-Binary,USA,Sports,288.04,1,288.04,15,244.83,Debit Card,2023-04-10,14,Returned,5,No,Yes,23.7,Premium
+T10715,C5715,19,Female,India,Clothing,219.86,7,1539.02,0,1539.02,Bank Transfer,2023-04-25,3,Returned,5,No,No,16.6,Regular
+T10716,C5716,27,Female,Australia,Electronics,68.15,6,408.9,10,368.01,Debit Card,2023-03-12,9,Delivered,3,No,No,20.0,Regular
+T10717,C5717,47,Female,Germany,Electronics,207.5,2,415.0,10,373.5,Bank Transfer,2024-11-30,6,In Transit,1,No,Yes,24.7,Regular
+T10718,C5718,62,Male,Australia,Sports,180.42,2,360.84,5,342.8,Credit Card,2024-03-21,6,Returned,4,No,No,10.4,Regular
+T10719,C5719,22,Male,UK,Books,154.9,7,1084.3,20,867.44,Debit Card,2023-01-23,5,Returned,1,Yes,No,6.6,Occasional
+T10720,C5720,50,Non-Binary,India,Books,366.79,1,366.79,5,348.45,PayPal,2024-07-23,11,Returned,4,No,No,18.3,Regular
+T10721,C5721,18,Female,India,Sports,351.86,2,703.72,10,633.35,Credit Card,2023-12-13,3,In Transit,2,No,No,6.6,Occasional
+T10722,C5722,35,Male,UK,Books,296.56,8,2372.48,0,2372.48,Debit Card,2023-06-25,11,In Transit,3,Yes,Yes,24.2,Regular
+T10723,C5723,49,Female,UK,Electronics,469.64,6,2817.84,5,2676.95,Debit Card,2024-03-24,5,In Transit,2,No,No,23.0,Occasional
+T10724,C5724,64,Non-Binary,Germany,Electronics,178.18,2,356.36,15,302.91,Bank Transfer,2023-11-15,14,Returned,5,No,No,27.0,Regular
+T10725,C5725,28,Male,India,Clothing,125.68,7,879.76,15,747.8,Credit Card,2023-02-16,1,Cancelled,3,Yes,Yes,21.0,Regular
+T10726,C5726,38,Male,India,Sports,329.67,4,1318.68,0,1318.68,Credit Card,2023-03-09,3,Delivered,5,No,Yes,6.7,Premium
+T10727,C5727,43,Male,Germany,Home & Kitchen,103.41,2,206.82,10,186.14,Credit Card,2024-04-12,4,Cancelled,2,Yes,No,11.3,Occasional
+T10728,C5728,42,Non-Binary,USA,Home & Kitchen,160.93,6,965.58,15,820.74,Credit Card,2023-06-27,5,In Transit,4,No,Yes,25.2,Premium
+T10729,C5729,39,Female,Germany,Clothing,116.18,9,1045.62,15,888.78,Bank Transfer,2023-07-08,10,Returned,5,Yes,Yes,9.2,Premium
+T10730,C5730,44,Male,Australia,Clothing,39.23,9,353.07,20,282.46,PayPal,2023-05-20,9,Returned,1,Yes,Yes,22.5,Regular
+T10731,C5731,30,Non-Binary,India,Books,414.61,8,3316.88,5,3151.04,Credit Card,2023-10-14,4,Cancelled,4,Yes,Yes,24.5,Premium
+T10732,C5732,50,Female,UK,Clothing,131.0,3,393.0,10,353.7,Bank Transfer,2023-08-27,3,Cancelled,4,No,Yes,13.3,Premium
+T10733,C5733,51,Non-Binary,Australia,Clothing,239.15,3,717.45,5,681.58,PayPal,2024-11-28,10,Delivered,2,No,Yes,13.1,Regular
+T10734,C5734,58,Female,India,Home & Kitchen,26.44,2,52.88,10,47.59,PayPal,2023-01-08,1,Returned,2,Yes,Yes,18.9,Regular
+T10735,C5735,52,Non-Binary,Germany,Books,351.17,5,1755.85,15,1492.47,Bank Transfer,2023-07-15,13,Cancelled,3,Yes,Yes,26.5,Regular
+T10736,C5736,18,Female,Australia,Clothing,168.63,4,674.52,20,539.62,Credit Card,2023-02-10,10,Delivered,3,No,Yes,10.6,Regular
+T10737,C5737,38,Male,India,Clothing,373.64,7,2615.48,5,2484.71,PayPal,2023-11-15,6,In Transit,1,No,No,28.5,Occasional
+T10738,C5738,23,Female,USA,Books,209.14,4,836.56,15,711.08,Credit Card,2024-01-06,7,Cancelled,4,No,No,20.0,Regular
+T10739,C5739,45,Non-Binary,USA,Sports,101.9,9,917.1,10,825.39,Credit Card,2024-10-20,10,In Transit,1,No,No,29.8,Occasional
+T10740,C5740,34,Non-Binary,UK,Books,259.02,2,518.04,5,492.14,Debit Card,2023-01-16,8,Delivered,1,No,No,7.2,Occasional
+T10741,C5741,22,Female,India,Home & Kitchen,69.6,6,417.6,5,396.72,Credit Card,2023-10-09,12,In Transit,2,Yes,No,8.2,Occasional
+T10742,C5742,48,Male,USA,Sports,223.07,7,1561.49,15,1327.27,Debit Card,2023-10-02,1,Returned,1,No,Yes,25.7,Regular
+T10743,C5743,22,Male,Germany,Electronics,162.07,4,648.28,5,615.87,PayPal,2024-04-26,12,Returned,1,Yes,Yes,26.6,Regular
+T10744,C5744,55,Female,India,Books,456.42,6,2738.52,20,2190.82,Bank Transfer,2023-05-11,4,In Transit,5,No,No,16.1,Regular
+T10745,C5745,20,Female,Germany,Home & Kitchen,35.16,7,246.12,20,196.9,Debit Card,2023-06-05,11,Returned,3,Yes,No,22.9,Regular
+T10746,C5746,40,Non-Binary,Germany,Sports,348.54,4,1394.16,15,1185.04,Bank Transfer,2023-12-27,5,Delivered,3,Yes,Yes,26.7,Regular
+T10747,C5747,54,Male,USA,Books,95.46,8,763.68,10,687.31,PayPal,2024-08-26,2,Returned,4,No,No,6.1,Regular
+T10748,C5748,54,Female,India,Clothing,162.93,9,1466.37,15,1246.41,Credit Card,2024-11-04,1,In Transit,3,Yes,Yes,19.3,Regular
+T10749,C5749,27,Male,Australia,Books,210.68,1,210.68,20,168.54,PayPal,2024-02-10,8,In Transit,4,Yes,No,26.3,Regular
+T10750,C5750,27,Female,USA,Electronics,454.47,7,3181.29,0,3181.29,Bank Transfer,2023-06-09,6,In Transit,5,Yes,Yes,15.0,Premium
+T10751,C5751,36,Female,USA,Books,125.08,9,1125.72,0,1125.72,PayPal,2024-06-14,5,Cancelled,3,Yes,No,12.6,Regular
+T10752,C5752,34,Male,India,Sports,50.2,5,251.0,5,238.45,Credit Card,2024-05-12,13,In Transit,5,No,Yes,24.9,Premium
+T10753,C5753,38,Female,India,Sports,162.75,2,325.5,5,309.22,PayPal,2024-04-12,9,Delivered,3,Yes,No,13.4,Regular
+T10754,C5754,31,Female,Germany,Books,56.81,6,340.86,0,340.86,Credit Card,2024-07-26,13,Returned,3,No,No,5.1,Regular
+T10755,C5755,26,Non-Binary,India,Sports,68.66,7,480.62,20,384.5,Debit Card,2023-10-01,11,Returned,5,Yes,Yes,29.0,Premium
+T10756,C5756,63,Female,Germany,Clothing,289.06,2,578.12,5,549.21,Bank Transfer,2023-12-28,13,Cancelled,1,No,Yes,19.8,Regular
+T10757,C5757,18,Female,USA,Books,35.15,2,70.3,15,59.76,Credit Card,2024-02-27,11,Cancelled,1,No,No,25.5,Occasional
+T10758,C5758,62,Female,UK,Clothing,20.31,1,20.31,15,17.26,Credit Card,2023-04-07,2,Delivered,1,No,No,25.6,Occasional
+T10759,C5759,30,Non-Binary,Australia,Clothing,358.63,4,1434.52,20,1147.62,PayPal,2023-03-02,10,In Transit,1,Yes,Yes,6.7,Regular
+T10760,C5760,21,Male,USA,Home & Kitchen,184.02,7,1288.14,5,1223.73,Debit Card,2023-07-29,12,Cancelled,3,No,Yes,9.3,Regular
+T10761,C5761,18,Non-Binary,India,Books,67.06,9,603.54,15,513.01,Credit Card,2024-09-04,8,Returned,2,No,Yes,12.8,Regular
+T10762,C5762,57,Non-Binary,Australia,Sports,130.54,3,391.62,5,372.04,Debit Card,2024-10-27,11,Cancelled,5,Yes,No,13.0,Regular
+T10763,C5763,49,Male,UK,Clothing,322.83,7,2259.81,5,2146.82,Debit Card,2023-02-09,14,Cancelled,2,No,No,21.5,Occasional
+T10764,C5764,51,Non-Binary,UK,Home & Kitchen,141.39,7,989.73,15,841.27,PayPal,2023-11-04,10,In Transit,2,Yes,Yes,20.6,Regular
+T10765,C5765,45,Male,Germany,Books,249.79,7,1748.53,0,1748.53,Credit Card,2023-06-04,13,Cancelled,4,Yes,No,17.4,Regular
+T10766,C5766,48,Non-Binary,Australia,Books,65.24,2,130.48,15,110.91,PayPal,2024-02-23,9,Delivered,1,No,No,10.3,Occasional
+T10767,C5767,25,Male,Germany,Electronics,296.11,6,1776.66,20,1421.33,Bank Transfer,2023-12-30,1,Returned,3,Yes,Yes,14.5,Regular
+T10768,C5768,56,Female,USA,Electronics,161.46,2,322.92,10,290.63,Bank Transfer,2023-02-27,7,In Transit,1,Yes,No,18.6,Occasional
+T10769,C5769,43,Non-Binary,Australia,Clothing,315.35,6,1892.1,15,1608.28,Credit Card,2023-07-13,8,Returned,1,Yes,Yes,16.7,Regular
+T10770,C5770,51,Non-Binary,USA,Electronics,405.16,3,1215.48,5,1154.71,Debit Card,2024-05-31,3,Delivered,2,No,Yes,8.2,Regular
+T10771,C5771,20,Non-Binary,Germany,Clothing,307.76,2,615.52,5,584.74,Credit Card,2024-06-05,14,Delivered,4,Yes,No,21.2,Regular
+T10772,C5772,29,Non-Binary,Australia,Sports,151.4,6,908.4,15,772.14,Credit Card,2024-10-22,4,Cancelled,1,Yes,No,6.8,Occasional
+T10773,C5773,18,Female,Germany,Clothing,131.59,2,263.18,10,236.86,Bank Transfer,2023-05-30,13,Cancelled,5,Yes,Yes,14.5,Premium
+T10774,C5774,61,Non-Binary,Australia,Electronics,167.07,5,835.35,15,710.05,Bank Transfer,2024-05-30,3,Cancelled,5,No,Yes,22.8,Premium
+T10775,C5775,22,Female,Germany,Sports,86.49,2,172.98,10,155.68,Debit Card,2023-11-17,7,Returned,1,Yes,Yes,5.5,Regular
+T10776,C5776,47,Female,UK,Electronics,94.68,3,284.04,10,255.64,Debit Card,2024-10-11,9,Delivered,2,No,No,19.2,Occasional
+T10777,C5777,47,Female,Germany,Clothing,396.39,3,1189.17,20,951.34,Credit Card,2024-03-20,3,In Transit,2,Yes,Yes,13.4,Regular
+T10778,C5778,34,Female,UK,Home & Kitchen,195.44,6,1172.64,5,1114.01,PayPal,2024-01-17,13,Cancelled,3,No,Yes,5.2,Regular
+T10779,C5779,64,Male,Germany,Books,220.82,6,1324.92,5,1258.67,Credit Card,2023-03-04,6,Returned,4,No,Yes,9.8,Premium
+T10780,C5780,40,Male,Australia,Electronics,299.05,3,897.15,10,807.44,Debit Card,2023-05-31,8,Cancelled,2,No,Yes,28.5,Regular
+T10781,C5781,32,Non-Binary,Australia,Clothing,296.88,3,890.64,5,846.11,PayPal,2023-10-01,6,Delivered,3,Yes,No,18.0,Regular
+T10782,C5782,54,Male,Australia,Sports,38.35,1,38.35,0,38.35,Bank Transfer,2023-05-09,2,In Transit,5,Yes,No,29.9,Regular
+T10783,C5783,38,Male,India,Electronics,416.61,7,2916.27,10,2624.64,Debit Card,2024-09-14,13,Delivered,5,Yes,Yes,18.1,Premium
+T10784,C5784,31,Non-Binary,USA,Electronics,92.78,8,742.24,5,705.13,Debit Card,2024-03-12,7,Returned,5,No,No,18.6,Regular
+T10785,C5785,19,Non-Binary,Australia,Books,362.92,2,725.84,0,725.84,PayPal,2024-10-21,2,Cancelled,1,Yes,No,14.8,Occasional
+T10786,C5786,28,Non-Binary,UK,Clothing,387.47,4,1549.88,20,1239.9,Debit Card,2024-10-04,2,Delivered,4,Yes,No,12.8,Regular
+T10787,C5787,56,Male,Australia,Home & Kitchen,358.88,7,2512.16,5,2386.55,Debit Card,2023-08-05,2,Returned,3,No,Yes,11.3,Regular
+T10788,C5788,55,Male,India,Sports,291.59,8,2332.72,0,2332.72,Debit Card,2023-10-11,11,Cancelled,4,Yes,No,13.6,Regular
+T10789,C5789,51,Non-Binary,UK,Clothing,12.23,1,12.23,15,10.4,Debit Card,2024-03-21,1,In Transit,1,Yes,No,16.5,Occasional
+T10790,C5790,55,Female,India,Sports,183.39,4,733.56,15,623.53,Debit Card,2023-12-07,14,Delivered,3,No,Yes,9.8,Regular
+T10791,C5791,51,Non-Binary,UK,Electronics,304.4,6,1826.4,0,1826.4,Debit Card,2024-03-31,11,Cancelled,3,No,Yes,10.6,Regular
+T10792,C5792,35,Female,Germany,Books,196.79,3,590.37,10,531.33,Debit Card,2024-05-07,1,Cancelled,2,Yes,No,11.8,Occasional
+T10793,C5793,47,Female,USA,Books,432.42,5,2162.1,10,1945.89,Debit Card,2024-01-08,14,Cancelled,4,No,No,16.2,Regular
+T10794,C5794,32,Non-Binary,USA,Home & Kitchen,157.86,9,1420.74,5,1349.7,Bank Transfer,2024-03-03,7,Cancelled,4,Yes,Yes,21.3,Premium
+T10795,C5795,44,Non-Binary,India,Books,150.3,3,450.9,15,383.27,Debit Card,2024-07-16,13,Delivered,2,Yes,Yes,26.4,Regular
+T10796,C5796,51,Non-Binary,USA,Electronics,136.67,5,683.35,10,615.02,Bank Transfer,2023-10-23,14,Cancelled,5,Yes,Yes,12.2,Premium
+T10797,C5797,55,Male,India,Home & Kitchen,169.73,8,1357.84,10,1222.06,Bank Transfer,2024-03-20,14,Returned,1,Yes,Yes,9.6,Regular
+T10798,C5798,50,Female,India,Clothing,280.92,6,1685.52,15,1432.69,Credit Card,2024-03-16,14,Delivered,4,Yes,No,14.5,Regular
+T10799,C5799,41,Male,India,Books,354.97,4,1419.88,20,1135.9,Credit Card,2023-01-20,12,Cancelled,2,No,Yes,27.4,Regular
+T10800,C5800,32,Male,USA,Home & Kitchen,332.97,8,2663.76,10,2397.38,Bank Transfer,2024-11-09,5,Delivered,3,No,No,5.2,Regular
+T10801,C5801,47,Non-Binary,India,Electronics,404.82,3,1214.46,0,1214.46,Bank Transfer,2024-09-02,11,Returned,2,Yes,No,21.9,Occasional
+T10802,C5802,59,Male,USA,Sports,443.53,3,1330.59,5,1264.06,Debit Card,2023-12-02,3,Returned,5,No,No,16.9,Regular
+T10803,C5803,34,Non-Binary,India,Sports,408.96,4,1635.84,10,1472.26,Credit Card,2024-01-20,1,Delivered,1,No,Yes,9.0,Regular
+T10804,C5804,22,Female,Australia,Electronics,14.38,9,129.42,10,116.48,PayPal,2023-07-20,11,Cancelled,5,Yes,Yes,13.0,Premium
+T10805,C5805,46,Non-Binary,India,Electronics,369.28,5,1846.4,20,1477.12,Credit Card,2024-11-16,10,Cancelled,3,No,No,10.6,Regular
+T10806,C5806,21,Male,UK,Sports,108.16,8,865.28,0,865.28,Bank Transfer,2024-10-20,6,Returned,3,No,No,26.9,Regular
+T10807,C5807,27,Male,India,Home & Kitchen,70.8,6,424.8,5,403.56,Bank Transfer,2024-05-28,11,Cancelled,3,Yes,No,17.0,Regular
+T10808,C5808,34,Non-Binary,Germany,Sports,321.05,3,963.15,10,866.84,Debit Card,2023-05-06,1,Returned,3,Yes,No,19.1,Regular
+T10809,C5809,27,Non-Binary,India,Electronics,163.27,8,1306.16,5,1240.85,Debit Card,2023-02-19,9,Cancelled,2,Yes,No,19.8,Occasional
+T10810,C5810,34,Male,UK,Books,33.27,9,299.43,15,254.52,Credit Card,2024-10-18,2,Returned,3,Yes,Yes,21.0,Regular
+T10811,C5811,37,Female,UK,Clothing,73.13,8,585.04,10,526.54,Debit Card,2023-01-26,1,In Transit,3,Yes,Yes,17.4,Regular
+T10812,C5812,41,Female,USA,Books,5.46,4,21.84,10,19.66,PayPal,2024-05-19,12,Cancelled,2,Yes,Yes,5.4,Regular
+T10813,C5813,22,Non-Binary,Australia,Books,452.1,6,2712.6,15,2305.71,PayPal,2024-08-31,7,Cancelled,3,Yes,No,13.4,Regular
+T10814,C5814,51,Female,India,Electronics,17.19,1,17.19,20,13.75,Debit Card,2024-06-25,6,Cancelled,5,No,No,9.6,Regular
+T10815,C5815,23,Male,USA,Sports,108.68,4,434.72,10,391.25,PayPal,2023-09-16,6,Delivered,5,Yes,Yes,22.0,Premium
+T10816,C5816,19,Non-Binary,Australia,Home & Kitchen,211.05,8,1688.4,5,1603.98,PayPal,2023-01-12,14,Cancelled,4,No,Yes,6.4,Premium
+T10817,C5817,30,Male,India,Books,181.5,1,181.5,0,181.5,Credit Card,2023-10-08,5,Delivered,5,No,No,19.1,Regular
+T10818,C5818,60,Male,Germany,Sports,456.3,3,1368.9,5,1300.46,PayPal,2023-09-02,11,Delivered,1,Yes,Yes,10.3,Regular
+T10819,C5819,60,Female,India,Home & Kitchen,24.94,1,24.94,20,19.95,Bank Transfer,2024-12-21,4,Returned,1,No,Yes,28.7,Regular
+T10820,C5820,28,Non-Binary,UK,Books,258.55,9,2326.95,0,2326.95,Bank Transfer,2024-05-10,11,Delivered,1,No,Yes,13.4,Regular
+T10821,C5821,64,Non-Binary,UK,Home & Kitchen,341.84,2,683.68,5,649.5,Credit Card,2023-01-18,4,Delivered,2,No,No,13.1,Occasional
+T10822,C5822,40,Female,Germany,Sports,466.19,9,4195.71,5,3985.92,Debit Card,2024-02-29,3,In Transit,5,Yes,No,28.1,Regular
+T10823,C5823,33,Male,USA,Clothing,312.08,4,1248.32,15,1061.07,Credit Card,2023-09-10,10,Cancelled,1,No,Yes,15.4,Regular
+T10824,C5824,48,Male,Australia,Sports,402.86,2,805.72,20,644.58,Debit Card,2024-12-31,8,Delivered,4,No,No,29.1,Regular
+T10825,C5825,28,Male,India,Electronics,46.44,4,185.76,15,157.9,Debit Card,2023-01-30,7,Cancelled,2,Yes,Yes,5.6,Regular
+T10826,C5826,33,Male,UK,Home & Kitchen,196.04,6,1176.24,0,1176.24,Debit Card,2024-05-20,9,Delivered,4,No,Yes,12.7,Premium
+T10827,C5827,25,Non-Binary,USA,Clothing,190.1,7,1330.7,15,1131.1,Debit Card,2023-07-14,1,Returned,5,No,No,21.7,Regular
+T10828,C5828,21,Non-Binary,Germany,Home & Kitchen,443.71,3,1331.13,20,1064.9,Debit Card,2024-01-25,7,In Transit,3,No,No,27.3,Regular
+T10829,C5829,57,Female,UK,Home & Kitchen,79.93,3,239.79,10,215.81,Credit Card,2023-05-04,10,Delivered,4,No,No,11.4,Regular
+T10830,C5830,21,Female,Germany,Books,80.18,8,641.44,10,577.3,Debit Card,2024-09-05,4,Cancelled,3,No,Yes,28.3,Regular
+T10831,C5831,42,Non-Binary,India,Electronics,167.64,5,838.2,0,838.2,PayPal,2023-05-08,7,Returned,2,Yes,Yes,19.9,Regular
+T10832,C5832,20,Non-Binary,Australia,Home & Kitchen,31.96,4,127.84,10,115.06,PayPal,2024-10-14,13,Cancelled,4,No,Yes,25.0,Premium
+T10833,C5833,49,Male,UK,Sports,95.32,7,667.24,15,567.15,Debit Card,2023-09-04,12,Returned,4,Yes,No,14.9,Regular
+T10834,C5834,20,Male,UK,Sports,482.78,7,3379.46,0,3379.46,PayPal,2024-05-08,1,In Transit,2,No,Yes,10.3,Regular
+T10835,C5835,44,Female,India,Books,216.95,9,1952.55,20,1562.04,Bank Transfer,2023-04-02,5,Returned,2,Yes,Yes,27.8,Regular
+T10836,C5836,46,Non-Binary,USA,Electronics,317.85,9,2860.65,0,2860.65,Credit Card,2023-06-26,3,Cancelled,1,Yes,Yes,28.3,Regular
+T10837,C5837,49,Female,Australia,Electronics,364.43,5,1822.15,0,1822.15,Credit Card,2023-10-23,5,Cancelled,5,Yes,Yes,17.4,Premium
+T10838,C5838,36,Non-Binary,UK,Sports,186.65,8,1493.2,5,1418.54,Debit Card,2024-06-15,4,Delivered,4,No,No,5.2,Regular
+T10839,C5839,38,Male,Australia,Clothing,77.88,1,77.88,5,73.99,Debit Card,2024-06-22,2,Returned,4,No,No,7.7,Regular
+T10840,C5840,22,Female,UK,Books,107.26,9,965.34,0,965.34,Bank Transfer,2024-03-18,11,Cancelled,2,No,No,19.3,Occasional
+T10841,C5841,35,Female,Australia,Books,160.07,8,1280.56,10,1152.5,Debit Card,2024-10-20,4,Delivered,2,No,Yes,5.6,Regular
+T10842,C5842,45,Non-Binary,Germany,Sports,319.85,6,1919.1,5,1823.14,PayPal,2023-03-21,3,In Transit,5,No,Yes,14.9,Premium
+T10843,C5843,59,Male,UK,Sports,202.15,3,606.45,20,485.16,Bank Transfer,2024-03-25,13,Cancelled,2,Yes,Yes,12.6,Regular
+T10844,C5844,39,Female,Australia,Clothing,8.37,3,25.11,15,21.34,PayPal,2024-01-01,1,Delivered,3,Yes,No,22.9,Regular
+T10845,C5845,38,Male,USA,Clothing,264.09,8,2112.72,5,2007.08,Credit Card,2024-12-30,12,Cancelled,3,Yes,No,6.4,Regular
+T10846,C5846,23,Female,Germany,Electronics,461.15,5,2305.75,0,2305.75,PayPal,2023-04-28,10,Returned,3,No,No,17.2,Regular
+T10847,C5847,18,Male,Germany,Books,406.98,7,2848.86,10,2563.97,Credit Card,2024-07-22,8,Delivered,3,No,No,19.5,Regular
+T10848,C5848,22,Non-Binary,USA,Books,413.48,5,2067.4,15,1757.29,PayPal,2024-12-15,5,Returned,5,Yes,No,20.4,Regular
+T10849,C5849,58,Female,Australia,Sports,398.55,8,3188.4,5,3028.98,Credit Card,2023-08-20,4,In Transit,4,No,Yes,15.1,Premium
+T10850,C5850,29,Female,India,Electronics,165.25,4,661.0,10,594.9,Debit Card,2024-09-11,10,Returned,3,No,No,12.6,Regular
+T10851,C5851,43,Male,USA,Books,383.77,2,767.54,10,690.79,PayPal,2023-09-13,12,Delivered,2,Yes,No,22.1,Occasional
+T10852,C5852,63,Male,Australia,Electronics,75.86,3,227.58,10,204.82,Credit Card,2024-04-17,5,Cancelled,3,Yes,No,26.2,Regular
+T10853,C5853,51,Female,USA,Electronics,330.57,8,2644.56,0,2644.56,PayPal,2023-06-09,4,Delivered,5,No,Yes,22.3,Premium
+T10854,C5854,31,Non-Binary,USA,Sports,322.58,7,2258.06,20,1806.45,Bank Transfer,2024-01-13,3,Returned,2,No,No,28.3,Occasional
+T10855,C5855,43,Male,UK,Electronics,17.66,2,35.32,10,31.79,Debit Card,2024-06-07,5,Returned,3,Yes,No,22.9,Regular
+T10856,C5856,62,Male,Australia,Clothing,395.05,6,2370.3,15,2014.76,Credit Card,2023-04-12,4,Cancelled,4,No,No,24.1,Regular
+T10857,C5857,44,Male,India,Clothing,452.11,9,4068.99,5,3865.54,Bank Transfer,2023-03-27,1,In Transit,2,Yes,Yes,9.2,Regular
+T10858,C5858,26,Female,UK,Home & Kitchen,137.37,4,549.48,15,467.06,PayPal,2023-02-19,12,Delivered,2,Yes,Yes,15.5,Regular
+T10859,C5859,43,Female,USA,Sports,407.13,9,3664.17,0,3664.17,Bank Transfer,2024-04-14,3,Cancelled,4,Yes,No,17.1,Regular
+T10860,C5860,64,Female,USA,Home & Kitchen,45.79,2,91.58,0,91.58,PayPal,2023-03-26,10,Cancelled,2,No,No,11.4,Occasional
+T10861,C5861,39,Female,USA,Clothing,301.98,2,603.96,15,513.37,Debit Card,2023-04-10,10,Cancelled,3,Yes,No,18.2,Regular
+T10862,C5862,64,Non-Binary,Australia,Home & Kitchen,245.4,9,2208.6,20,1766.88,Bank Transfer,2023-08-24,8,Delivered,2,Yes,No,12.3,Occasional
+T10863,C5863,47,Non-Binary,Australia,Sports,275.23,7,1926.61,0,1926.61,Debit Card,2023-08-22,7,Delivered,3,No,Yes,22.2,Regular
+T10864,C5864,60,Female,UK,Sports,463.47,7,3244.29,0,3244.29,Credit Card,2024-11-29,2,Delivered,4,Yes,No,16.8,Regular
+T10865,C5865,34,Non-Binary,India,Electronics,436.3,1,436.3,15,370.86,PayPal,2023-06-28,1,In Transit,1,No,Yes,16.5,Regular
+T10866,C5866,43,Male,UK,Books,393.62,6,2361.72,0,2361.72,PayPal,2023-01-02,3,Cancelled,4,No,No,29.6,Regular
+T10867,C5867,53,Male,Germany,Electronics,140.48,7,983.36,20,786.69,Debit Card,2024-11-20,5,Returned,3,No,Yes,14.8,Regular
+T10868,C5868,18,Male,USA,Sports,456.35,6,2738.1,20,2190.48,Debit Card,2023-11-10,10,Returned,5,Yes,Yes,14.1,Premium
+T10869,C5869,25,Female,USA,Clothing,53.27,6,319.62,20,255.7,Credit Card,2024-09-06,11,Cancelled,4,Yes,No,13.0,Regular
+T10870,C5870,52,Male,USA,Clothing,427.4,2,854.8,5,812.06,Bank Transfer,2023-09-25,12,Returned,5,No,Yes,27.4,Premium
+T10871,C5871,32,Non-Binary,UK,Electronics,167.44,6,1004.64,20,803.71,PayPal,2024-11-14,1,In Transit,5,No,No,17.4,Regular
+T10872,C5872,64,Female,UK,Sports,31.62,4,126.48,20,101.18,PayPal,2024-10-09,3,In Transit,3,No,Yes,20.0,Regular
+T10873,C5873,39,Non-Binary,USA,Clothing,336.33,9,3026.97,5,2875.62,Credit Card,2024-03-29,3,Delivered,3,Yes,Yes,9.5,Regular
+T10874,C5874,31,Male,UK,Sports,119.48,1,119.48,10,107.53,Credit Card,2024-10-30,5,Delivered,1,No,No,18.5,Occasional
+T10875,C5875,43,Male,Australia,Clothing,125.57,8,1004.56,0,1004.56,Debit Card,2024-02-13,3,Delivered,2,No,No,11.9,Occasional
+T10876,C5876,45,Male,Australia,Sports,156.49,5,782.45,20,625.96,Debit Card,2024-09-25,13,Delivered,4,No,Yes,23.3,Premium
+T10877,C5877,40,Female,UK,Home & Kitchen,36.52,1,36.52,0,36.52,Bank Transfer,2023-09-23,9,Delivered,3,Yes,Yes,25.8,Regular
+T10878,C5878,31,Non-Binary,USA,Sports,92.68,4,370.72,15,315.11,Credit Card,2024-11-25,1,Returned,4,No,No,22.9,Regular
+T10879,C5879,41,Female,UK,Sports,7.54,1,7.54,0,7.54,Bank Transfer,2024-11-12,4,Returned,5,Yes,No,23.3,Regular
+T10880,C5880,19,Female,UK,Electronics,225.48,6,1352.88,5,1285.24,Credit Card,2024-09-29,13,Delivered,2,Yes,No,17.8,Occasional
+T10881,C5881,62,Male,UK,Home & Kitchen,46.71,2,93.42,0,93.42,PayPal,2024-02-15,13,In Transit,1,No,Yes,22.8,Regular
+T10882,C5882,43,Female,Germany,Books,342.91,5,1714.55,0,1714.55,Credit Card,2023-01-02,10,Returned,4,No,No,15.6,Regular
+T10883,C5883,31,Female,Australia,Electronics,121.63,7,851.41,0,851.41,Credit Card,2023-08-02,10,In Transit,2,No,No,21.3,Occasional
+T10884,C5884,24,Male,India,Books,472.07,2,944.14,10,849.73,PayPal,2024-02-08,4,In Transit,1,Yes,Yes,11.5,Regular
+T10885,C5885,20,Female,India,Clothing,436.27,6,2617.62,10,2355.86,Credit Card,2023-05-26,1,Cancelled,4,Yes,No,6.7,Regular
+T10886,C5886,64,Male,Germany,Books,148.27,6,889.62,15,756.18,Bank Transfer,2023-10-08,14,Cancelled,2,Yes,No,15.3,Occasional
+T10887,C5887,40,Male,UK,Sports,392.69,5,1963.45,5,1865.28,Debit Card,2023-04-08,2,Delivered,3,No,No,16.5,Regular
+T10888,C5888,63,Male,Germany,Books,402.61,5,2013.05,0,2013.05,Debit Card,2024-02-11,11,In Transit,4,Yes,No,11.4,Regular
+T10889,C5889,60,Male,Germany,Electronics,493.35,3,1480.05,0,1480.05,Bank Transfer,2023-04-05,1,Returned,2,No,Yes,23.2,Regular
+T10890,C5890,64,Female,USA,Electronics,300.93,2,601.86,0,601.86,PayPal,2024-07-14,6,Cancelled,1,No,No,6.8,Occasional
+T10891,C5891,62,Male,Australia,Books,45.57,7,318.99,0,318.99,Credit Card,2023-11-25,3,Cancelled,2,No,No,10.6,Occasional
+T10892,C5892,35,Male,India,Electronics,325.18,1,325.18,10,292.66,Bank Transfer,2023-05-25,7,In Transit,3,Yes,No,23.7,Regular
+T10893,C5893,55,Female,UK,Electronics,314.36,6,1886.16,15,1603.24,Debit Card,2024-08-17,5,Cancelled,4,Yes,No,15.9,Regular
+T10894,C5894,52,Female,India,Books,320.98,6,1925.88,20,1540.7,Debit Card,2023-06-15,9,Cancelled,4,Yes,No,22.6,Regular
+T10895,C5895,32,Non-Binary,India,Home & Kitchen,157.04,3,471.12,5,447.56,Bank Transfer,2023-01-24,7,Returned,4,No,No,19.2,Regular
+T10896,C5896,42,Female,Australia,Home & Kitchen,430.54,2,861.08,0,861.08,Debit Card,2024-08-23,4,In Transit,3,Yes,Yes,28.8,Regular
+T10897,C5897,54,Female,India,Clothing,479.94,2,959.88,15,815.9,Bank Transfer,2023-04-25,5,Cancelled,1,Yes,Yes,19.9,Regular
+T10898,C5898,45,Non-Binary,India,Electronics,112.77,9,1014.93,20,811.94,Debit Card,2024-07-19,5,In Transit,4,No,Yes,5.4,Premium
+T10899,C5899,27,Female,Germany,Books,48.64,5,243.2,15,206.72,Bank Transfer,2024-06-03,11,Cancelled,1,No,No,13.8,Occasional
+T10900,C5900,56,Female,Australia,Electronics,101.29,7,709.03,10,638.13,Credit Card,2023-07-18,5,Returned,2,Yes,No,8.6,Occasional
+T10901,C5901,34,Female,USA,Sports,411.17,5,2055.85,20,1644.68,Credit Card,2023-11-22,10,In Transit,1,No,No,28.1,Occasional
+T10902,C5902,56,Female,UK,Electronics,339.94,7,2379.58,15,2022.64,Credit Card,2024-02-12,9,Cancelled,1,Yes,Yes,7.6,Regular
+T10903,C5903,39,Non-Binary,India,Electronics,319.84,4,1279.36,10,1151.42,Credit Card,2024-07-22,10,Returned,4,No,No,14.7,Regular
+T10904,C5904,43,Female,UK,Home & Kitchen,203.89,8,1631.12,15,1386.45,Debit Card,2024-05-27,3,Cancelled,5,No,Yes,10.7,Premium
+T10905,C5905,61,Female,USA,Books,291.02,7,2037.14,15,1731.57,PayPal,2024-08-10,6,In Transit,5,Yes,No,26.2,Regular
+T10906,C5906,42,Non-Binary,UK,Electronics,157.4,5,787.0,20,629.6,Bank Transfer,2024-12-12,8,Cancelled,3,No,No,12.7,Regular
+T10907,C5907,34,Male,USA,Home & Kitchen,241.21,6,1447.26,10,1302.53,PayPal,2023-09-13,11,In Transit,3,No,Yes,29.8,Regular
+T10908,C5908,30,Non-Binary,Germany,Clothing,397.57,5,1987.85,0,1987.85,Debit Card,2024-07-15,9,In Transit,5,No,Yes,6.0,Premium
+T10909,C5909,37,Male,India,Home & Kitchen,490.71,7,3434.97,5,3263.22,Debit Card,2024-12-20,13,Cancelled,2,Yes,Yes,8.2,Regular
+T10910,C5910,42,Non-Binary,USA,Home & Kitchen,466.58,2,933.16,20,746.53,PayPal,2023-04-13,7,Returned,4,No,Yes,10.6,Premium
+T10911,C5911,21,Non-Binary,UK,Home & Kitchen,467.26,5,2336.3,10,2102.67,PayPal,2024-08-12,12,Delivered,4,No,Yes,25.3,Premium
+T10912,C5912,27,Female,India,Electronics,204.1,3,612.3,15,520.45,Debit Card,2024-01-24,3,Returned,2,Yes,Yes,27.0,Regular
+T10913,C5913,20,Male,Germany,Electronics,237.05,9,2133.45,10,1920.11,Debit Card,2024-06-04,1,Returned,2,Yes,No,6.8,Occasional
+T10914,C5914,58,Female,India,Clothing,354.29,6,2125.74,5,2019.45,Bank Transfer,2024-08-29,4,Cancelled,5,No,Yes,5.8,Premium
+T10915,C5915,62,Male,USA,Sports,461.49,3,1384.47,5,1315.25,Credit Card,2024-11-13,13,Returned,3,No,No,23.6,Regular
+T10916,C5916,35,Non-Binary,Germany,Sports,75.29,7,527.03,0,527.03,Credit Card,2023-03-16,6,Returned,2,No,No,8.3,Occasional
+T10917,C5917,64,Non-Binary,UK,Sports,155.6,4,622.4,0,622.4,Bank Transfer,2024-06-02,3,Delivered,3,Yes,No,8.3,Regular
+T10918,C5918,53,Male,Germany,Clothing,73.93,3,221.79,5,210.7,PayPal,2023-03-28,14,Returned,1,No,No,5.6,Occasional
+T10919,C5919,64,Female,Germany,Sports,307.94,8,2463.52,20,1970.82,Debit Card,2024-04-15,1,Delivered,4,Yes,No,6.2,Regular
+T10920,C5920,39,Female,Australia,Sports,156.62,4,626.48,20,501.18,PayPal,2024-09-15,6,Cancelled,5,Yes,Yes,11.6,Premium
+T10921,C5921,51,Female,Germany,Home & Kitchen,166.42,1,166.42,15,141.46,Credit Card,2023-08-30,14,Delivered,4,No,Yes,6.6,Premium
+T10922,C5922,64,Female,Germany,Electronics,40.1,6,240.6,0,240.6,Credit Card,2024-01-30,1,In Transit,5,No,Yes,14.2,Premium
+T10923,C5923,25,Non-Binary,India,Electronics,178.15,1,178.15,15,151.43,PayPal,2024-12-10,9,In Transit,1,Yes,No,25.8,Occasional
+T10924,C5924,57,Non-Binary,UK,Home & Kitchen,431.94,5,2159.7,0,2159.7,Credit Card,2024-11-26,11,Delivered,4,No,Yes,13.2,Premium
+T10925,C5925,61,Non-Binary,India,Home & Kitchen,120.37,7,842.59,5,800.46,Debit Card,2024-05-16,14,In Transit,1,No,No,23.2,Occasional
+T10926,C5926,36,Non-Binary,India,Home & Kitchen,349.12,6,2094.72,20,1675.78,Bank Transfer,2024-01-30,12,Cancelled,5,Yes,No,7.3,Regular
+T10927,C5927,59,Non-Binary,USA,Electronics,316.67,2,633.34,20,506.67,PayPal,2024-11-21,1,In Transit,2,No,No,21.5,Occasional
+T10928,C5928,58,Female,India,Sports,432.42,4,1729.68,5,1643.2,Debit Card,2024-03-09,13,Delivered,4,Yes,No,12.9,Regular
+T10929,C5929,54,Female,Australia,Home & Kitchen,70.48,2,140.96,15,119.82,Debit Card,2024-11-16,6,Cancelled,1,No,Yes,23.7,Regular
+T10930,C5930,23,Female,Australia,Clothing,488.91,1,488.91,15,415.57,Credit Card,2023-06-17,1,In Transit,4,Yes,Yes,8.4,Premium
+T10931,C5931,43,Female,USA,Home & Kitchen,293.4,3,880.2,10,792.18,Debit Card,2024-09-05,12,Cancelled,4,Yes,Yes,27.4,Premium
+T10932,C5932,51,Non-Binary,UK,Books,497.76,3,1493.28,0,1493.28,PayPal,2024-09-03,7,Delivered,4,No,Yes,11.1,Premium
+T10933,C5933,62,Non-Binary,UK,Home & Kitchen,456.2,7,3193.4,15,2714.39,Debit Card,2024-01-14,3,In Transit,3,Yes,Yes,13.8,Regular
+T10934,C5934,23,Non-Binary,India,Electronics,114.65,1,114.65,5,108.92,Bank Transfer,2024-06-10,6,Cancelled,1,Yes,No,28.8,Occasional
+T10935,C5935,54,Male,India,Home & Kitchen,32.8,9,295.2,15,250.92,Debit Card,2023-03-15,7,Cancelled,1,No,Yes,19.5,Regular
+T10936,C5936,50,Female,India,Books,131.54,6,789.24,20,631.39,Debit Card,2024-08-17,1,In Transit,4,No,No,14.1,Regular
+T10937,C5937,39,Female,UK,Clothing,266.14,4,1064.56,0,1064.56,Bank Transfer,2023-08-13,1,Cancelled,2,No,No,28.7,Occasional
+T10938,C5938,38,Non-Binary,Germany,Sports,89.94,3,269.82,10,242.84,Debit Card,2024-06-18,13,Cancelled,4,Yes,No,13.2,Regular
+T10939,C5939,23,Female,Australia,Home & Kitchen,87.89,3,263.67,0,263.67,Debit Card,2023-01-11,5,Delivered,3,Yes,Yes,7.4,Regular
+T10940,C5940,23,Female,Germany,Books,233.98,2,467.96,20,374.37,Credit Card,2024-12-21,6,Delivered,5,Yes,No,29.9,Regular
+T10941,C5941,21,Non-Binary,Germany,Books,21.47,2,42.94,20,34.35,PayPal,2023-03-06,9,Delivered,3,No,No,11.7,Regular
+T10942,C5942,47,Male,UK,Clothing,65.33,5,326.65,20,261.32,Credit Card,2024-08-21,14,Delivered,2,Yes,Yes,26.3,Regular
+T10943,C5943,28,Male,Germany,Electronics,210.85,9,1897.65,20,1518.12,PayPal,2023-06-30,1,Delivered,4,Yes,No,9.1,Regular
+T10944,C5944,47,Male,USA,Home & Kitchen,36.25,2,72.5,5,68.88,Bank Transfer,2023-05-27,13,Delivered,1,No,No,23.3,Occasional
+T10945,C5945,48,Non-Binary,India,Books,201.39,2,402.78,10,362.5,Bank Transfer,2024-06-24,4,In Transit,4,Yes,No,18.1,Regular
+T10946,C5946,41,Female,USA,Clothing,239.63,6,1437.78,20,1150.22,Bank Transfer,2024-10-23,10,Delivered,2,No,Yes,29.5,Regular
+T10947,C5947,26,Non-Binary,Australia,Sports,228.38,2,456.76,20,365.41,PayPal,2023-09-10,8,Cancelled,1,No,No,18.8,Occasional
+T10948,C5948,20,Non-Binary,India,Books,435.24,4,1740.96,15,1479.82,PayPal,2024-04-11,10,In Transit,3,No,No,5.6,Regular
+T10949,C5949,48,Female,Germany,Clothing,267.38,6,1604.28,10,1443.85,PayPal,2024-12-13,9,Cancelled,5,Yes,Yes,20.1,Premium
+T10950,C5950,57,Male,Australia,Electronics,236.65,5,1183.25,0,1183.25,Bank Transfer,2024-09-05,13,Delivered,5,Yes,Yes,8.6,Premium
+T10951,C5951,54,Male,India,Electronics,208.3,1,208.3,10,187.47,PayPal,2023-11-12,3,Delivered,4,Yes,No,25.0,Regular
+T10952,C5952,53,Non-Binary,Germany,Books,409.72,6,2458.32,10,2212.49,Debit Card,2023-08-05,11,Cancelled,3,No,Yes,26.4,Regular
+T10953,C5953,41,Male,USA,Books,448.05,1,448.05,10,403.24,Credit Card,2024-07-31,2,Cancelled,2,No,Yes,17.1,Regular
+T10954,C5954,48,Non-Binary,India,Home & Kitchen,427.36,3,1282.08,20,1025.66,Bank Transfer,2024-11-04,4,Cancelled,5,No,Yes,24.6,Premium
+T10955,C5955,23,Non-Binary,Germany,Clothing,338.41,5,1692.05,20,1353.64,Credit Card,2023-12-01,2,Returned,3,Yes,Yes,8.6,Regular
+T10956,C5956,19,Female,USA,Books,72.99,5,364.95,5,346.7,Debit Card,2024-06-26,1,Returned,4,Yes,Yes,17.3,Premium
+T10957,C5957,37,Female,Australia,Home & Kitchen,142.05,6,852.3,0,852.3,PayPal,2023-11-09,12,Returned,1,Yes,Yes,14.8,Regular
+T10958,C5958,45,Female,Australia,Home & Kitchen,27.8,8,222.4,15,189.04,Credit Card,2024-08-24,3,Returned,4,Yes,Yes,20.3,Premium
+T10959,C5959,28,Non-Binary,Australia,Books,465.76,5,2328.8,10,2095.92,Debit Card,2023-05-17,7,In Transit,4,Yes,No,6.1,Regular
+T10960,C5960,21,Female,Australia,Electronics,332.1,1,332.1,0,332.1,Debit Card,2024-12-18,13,Delivered,3,No,Yes,23.8,Regular
+T10961,C5961,32,Male,UK,Clothing,374.45,5,1872.25,0,1872.25,Credit Card,2024-06-12,13,Cancelled,5,Yes,Yes,7.0,Premium
+T10962,C5962,23,Male,India,Clothing,159.23,3,477.69,5,453.81,Bank Transfer,2024-10-06,1,Delivered,3,No,Yes,21.4,Regular
+T10963,C5963,47,Non-Binary,India,Electronics,423.6,4,1694.4,15,1440.24,Credit Card,2023-07-02,2,Cancelled,1,No,No,5.5,Occasional
+T10964,C5964,55,Non-Binary,UK,Books,133.5,8,1068.0,10,961.2,Bank Transfer,2023-07-06,1,Delivered,3,Yes,Yes,25.8,Regular
+T10965,C5965,19,Female,Germany,Clothing,5.81,7,40.67,15,34.57,PayPal,2023-08-11,8,In Transit,2,No,Yes,9.4,Regular
+T10966,C5966,32,Non-Binary,Germany,Books,191.33,5,956.65,5,908.82,Bank Transfer,2023-11-15,5,Returned,4,Yes,No,17.9,Regular
+T10967,C5967,28,Non-Binary,Australia,Books,287.53,2,575.06,20,460.05,PayPal,2024-10-26,8,Delivered,5,Yes,Yes,11.5,Premium
+T10968,C5968,25,Male,USA,Home & Kitchen,241.96,6,1451.76,0,1451.76,Credit Card,2024-07-25,3,Cancelled,1,No,No,23.1,Occasional
+T10969,C5969,43,Male,Germany,Electronics,431.73,6,2590.38,10,2331.34,PayPal,2023-01-29,13,Delivered,4,Yes,No,13.0,Regular
+T10970,C5970,62,Female,USA,Books,57.18,6,343.08,20,274.46,Debit Card,2023-10-16,12,In Transit,3,Yes,Yes,23.1,Regular
+T10971,C5971,61,Non-Binary,India,Sports,279.14,9,2512.26,5,2386.65,PayPal,2023-08-13,7,In Transit,2,No,No,12.1,Occasional
+T10972,C5972,22,Non-Binary,USA,Electronics,258.92,8,2071.36,15,1760.66,Bank Transfer,2024-09-29,8,Delivered,3,No,Yes,23.8,Regular
+T10973,C5973,23,Male,India,Clothing,144.29,8,1154.32,0,1154.32,Bank Transfer,2024-02-05,6,Returned,4,No,Yes,5.8,Premium
+T10974,C5974,43,Non-Binary,UK,Home & Kitchen,412.0,1,412.0,10,370.8,Bank Transfer,2023-02-27,13,Cancelled,1,No,No,12.1,Occasional
+T10975,C5975,21,Male,UK,Clothing,377.66,5,1888.3,20,1510.64,PayPal,2024-05-11,13,In Transit,5,No,No,17.5,Regular
+T10976,C5976,36,Female,Australia,Clothing,367.77,7,2574.39,20,2059.51,Bank Transfer,2023-11-03,7,In Transit,4,No,Yes,6.1,Premium
+T10977,C5977,37,Male,Germany,Electronics,438.72,6,2632.32,0,2632.32,Bank Transfer,2023-10-31,14,Delivered,1,Yes,Yes,9.7,Regular
+T10978,C5978,50,Non-Binary,Australia,Clothing,362.78,5,1813.9,15,1541.81,Debit Card,2023-01-06,12,In Transit,4,Yes,No,28.4,Regular
+T10979,C5979,37,Female,India,Books,119.76,8,958.08,5,910.18,PayPal,2023-01-08,2,In Transit,2,Yes,Yes,29.4,Regular
+T10980,C5980,29,Male,Australia,Clothing,354.25,3,1062.75,15,903.34,Debit Card,2024-09-13,8,Cancelled,3,No,Yes,23.5,Regular
+T10981,C5981,64,Male,USA,Home & Kitchen,157.31,6,943.86,15,802.28,Bank Transfer,2023-05-19,5,Returned,5,Yes,Yes,11.3,Premium
+T10982,C5982,18,Female,India,Home & Kitchen,124.88,5,624.4,15,530.74,Bank Transfer,2024-08-02,7,Cancelled,1,No,No,11.5,Occasional
+T10983,C5983,43,Female,UK,Sports,41.14,8,329.12,0,329.12,Bank Transfer,2024-11-10,1,Returned,5,Yes,Yes,21.1,Premium
+T10984,C5984,31,Male,Germany,Home & Kitchen,373.29,4,1493.16,0,1493.16,PayPal,2023-12-02,5,Cancelled,5,No,Yes,7.9,Premium
+T10985,C5985,55,Non-Binary,India,Clothing,356.95,8,2855.6,5,2712.82,Credit Card,2023-08-26,1,Delivered,5,Yes,Yes,28.7,Premium
+T10986,C5986,54,Male,India,Home & Kitchen,121.08,2,242.16,15,205.84,Bank Transfer,2024-10-06,12,In Transit,1,No,No,10.6,Occasional
+T10987,C5987,28,Female,USA,Electronics,375.94,9,3383.46,0,3383.46,Bank Transfer,2023-12-28,13,Returned,1,No,No,30.0,Occasional
+T10988,C5988,53,Male,Germany,Home & Kitchen,459.33,9,4133.97,5,3927.27,Bank Transfer,2023-08-17,8,Delivered,5,No,No,17.4,Regular
+T10989,C5989,30,Female,UK,Books,58.47,6,350.82,5,333.28,Bank Transfer,2024-10-29,4,In Transit,3,No,Yes,24.3,Regular
+T10990,C5990,60,Female,India,Electronics,120.16,4,480.64,15,408.54,PayPal,2024-10-21,4,In Transit,4,Yes,No,5.1,Regular
+T10991,C5991,20,Non-Binary,India,Sports,376.38,4,1505.52,10,1354.97,Credit Card,2024-07-03,2,In Transit,5,Yes,Yes,27.2,Premium
+T10992,C5992,50,Female,USA,Books,140.88,6,845.28,15,718.49,Credit Card,2024-03-20,5,Cancelled,2,No,No,11.8,Occasional
+T10993,C5993,23,Female,Australia,Clothing,314.21,5,1571.05,10,1413.94,Credit Card,2023-07-10,1,Delivered,5,No,Yes,21.7,Premium
+T10994,C5994,27,Non-Binary,UK,Clothing,45.18,6,271.08,5,257.53,Bank Transfer,2024-02-19,9,Delivered,1,No,No,25.2,Occasional
+T10995,C5995,22,Female,Germany,Clothing,228.84,7,1601.88,0,1601.88,Bank Transfer,2023-08-22,5,In Transit,4,Yes,Yes,9.1,Premium
+T10996,C5996,40,Non-Binary,India,Books,370.85,7,2595.95,20,2076.76,Credit Card,2023-09-26,6,Returned,2,No,Yes,16.1,Regular
+T10997,C5997,27,Non-Binary,India,Books,344.82,9,3103.38,5,2948.21,Credit Card,2024-04-01,2,Delivered,4,No,No,17.3,Regular
+T10998,C5998,61,Female,UK,Books,408.46,8,3267.68,0,3267.68,Bank Transfer,2023-02-17,10,Cancelled,4,Yes,Yes,12.8,Premium
+T10999,C5999,19,Female,Australia,Electronics,439.34,6,2636.04,5,2504.24,Bank Transfer,2024-07-20,10,Returned,2,No,No,17.0,Occasional
